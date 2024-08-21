@@ -1,0 +1,26 @@
+{
+    "uniprot_id": "D6REC4",
+    "variants": {
+        "M292V": {
+            "am_pathogenicity": 0.0824,
+            "am_class": "benign"
+        }
+    },
+    "statistics": {
+        "total_variants": 1,
+        "am_class_counts": {
+            "benign": 1
+        },
+        "am_pathogenicity_stats": {
+            "average": 0.0824,
+            "min": 0.0824,
+            "max": 0.0824,
+            "median": 0.0824,
+            "quantile_25": 0.0824,
+            "quantile_75": 0.0824
+        },
+        "protein_length": 292,
+        "creation_date": "2024-08-21T14:52:53.208993",
+        "source_file": "AlphaMissense_aa_substitutions.tsv.gz"
+    }
+}

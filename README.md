@@ -1,6 +1,7 @@
 # Alpha Missense Scores
 
 This repository serves as a static file hosting API for precomputed JSON files containing AlphaMissense scores. The JSON files are generated from the [AlphaMissense_aa_substitutions.tsv.gz](https://storage.googleapis.com/dm_alphamissense/AlphaMissense_aa_substitutions.tsv.gz) dataset, provided by DeepMind, and hosted in the `scores/json` directory. These files are accessible via simple HTTP queries and are intended to be used when local precomputed files are not available.
+Querying or loading the JSON files directly from this repository or locally can be more efficient than fetching the original TSV file and processing it.
 
 ## Repository Structure
 

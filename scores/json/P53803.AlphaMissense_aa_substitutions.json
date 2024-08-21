@@ -1,0 +1,4432 @@
+{
+    "uniprot_id": "P53803",
+    "variants": {
+        "M1A": {
+            "am_pathogenicity": 0.5199,
+            "am_class": "ambiguous"
+        },
+        "M1C": {
+            "am_pathogenicity": 0.3292,
+            "am_class": "benign"
+        },
+        "M1D": {
+            "am_pathogenicity": 0.9366,
+            "am_class": "pathogenic"
+        },
+        "M1E": {
+            "am_pathogenicity": 0.8111,
+            "am_class": "pathogenic"
+        },
+        "M1F": {
+            "am_pathogenicity": 0.2758,
+            "am_class": "benign"
+        },
+        "M1G": {
+            "am_pathogenicity": 0.5316,
+            "am_class": "ambiguous"
+        },
+        "M1H": {
+            "am_pathogenicity": 0.7576,
+            "am_class": "pathogenic"
+        },
+        "M1I": {
+            "am_pathogenicity": 0.5637,
+            "am_class": "ambiguous"
+        },
+        "M1K": {
+            "am_pathogenicity": 0.7188,
+            "am_class": "pathogenic"
+        },
+        "M1L": {
+            "am_pathogenicity": 0.188,
+            "am_class": "benign"
+        },
+        "M1N": {
+            "am_pathogenicity": 0.7641,
+            "am_class": "pathogenic"
+        },
+        "M1P": {
+            "am_pathogenicity": 0.7619,
+            "am_class": "pathogenic"
+        },
+        "M1Q": {
+            "am_pathogenicity": 0.4904,
+            "am_class": "ambiguous"
+        },
+        "M1R": {
+            "am_pathogenicity": 0.6749,
+            "am_class": "pathogenic"
+        },
+        "M1S": {
+            "am_pathogenicity": 0.5925,
+            "am_class": "pathogenic"
+        },
+        "M1T": {
+            "am_pathogenicity": 0.5467,
+            "am_class": "ambiguous"
+        },
+        "M1V": {
+            "am_pathogenicity": 0.1213,
+            "am_class": "benign"
+        },
+        "M1W": {
+            "am_pathogenicity": 0.6643,
+            "am_class": "pathogenic"
+        },
+        "M1Y": {
+            "am_pathogenicity": 0.6506,
+            "am_class": "pathogenic"
+        },
+        "D2A": {
+            "am_pathogenicity": 0.3885,
+            "am_class": "ambiguous"
+        },
+        "D2C": {
+            "am_pathogenicity": 0.7914,
+            "am_class": "pathogenic"
+        },
+        "D2E": {
+            "am_pathogenicity": 0.1112,
+            "am_class": "benign"
+        },
+        "D2F": {
+            "am_pathogenicity": 0.831,
+            "am_class": "pathogenic"
+        },
+        "D2G": {
+            "am_pathogenicity": 0.3329,
+            "am_class": "benign"
+        },
+        "D2H": {
+            "am_pathogenicity": 0.6583,
+            "am_class": "pathogenic"
+        },
+        "D2I": {
+            "am_pathogenicity": 0.6644,
+            "am_class": "pathogenic"
+        },
+        "D2K": {
+            "am_pathogenicity": 0.7733,
+            "am_class": "pathogenic"
+        },
+        "D2L": {
+            "am_pathogenicity": 0.6631,
+            "am_class": "pathogenic"
+        },
+        "D2M": {
+            "am_pathogenicity": 0.7925,
+            "am_class": "pathogenic"
+        },
+        "D2N": {
+            "am_pathogenicity": 0.2328,
+            "am_class": "benign"
+        },
+        "D2P": {
+            "am_pathogenicity": 0.6157,
+            "am_class": "pathogenic"
+        },
+        "D2Q": {
+            "am_pathogenicity": 0.5151,
+            "am_class": "ambiguous"
+        },
+        "D2R": {
+            "am_pathogenicity": 0.8077,
+            "am_class": "pathogenic"
+        },
+        "D2S": {
+            "am_pathogenicity": 0.2957,
+            "am_class": "benign"
+        },
+        "D2T": {
+            "am_pathogenicity": 0.4128,
+            "am_class": "ambiguous"
+        },
+        "D2V": {
+            "am_pathogenicity": 0.5227,
+            "am_class": "ambiguous"
+        },
+        "D2W": {
+            "am_pathogenicity": 0.9625,
+            "am_class": "pathogenic"
+        },
+        "D2Y": {
+            "am_pathogenicity": 0.6643,
+            "am_class": "pathogenic"
+        },
+        "T3A": {
+            "am_pathogenicity": 0.0549,
+            "am_class": "benign"
+        },
+        "T3C": {
+            "am_pathogenicity": 0.1495,
+            "am_class": "benign"
+        },
+        "T3D": {
+            "am_pathogenicity": 0.2456,
+            "am_class": "benign"
+        },
+        "T3E": {
+            "am_pathogenicity": 0.247,
+            "am_class": "benign"
+        },
+        "T3F": {
+            "am_pathogenicity": 0.1501,
+            "am_class": "benign"
+        },
+        "T3G": {
+            "am_pathogenicity": 0.0682,
+            "am_class": "benign"
+        },
+        "T3H": {
+            "am_pathogenicity": 0.1662,
+            "am_class": "benign"
+        },
+        "T3I": {
+            "am_pathogenicity": 0.0912,
+            "am_class": "benign"
+        },
+        "T3K": {
+            "am_pathogenicity": 0.3243,
+            "am_class": "benign"
+        },
+        "T3L": {
+            "am_pathogenicity": 0.0793,
+            "am_class": "benign"
+        },
+        "T3M": {
+            "am_pathogenicity": 0.0884,
+            "am_class": "benign"
+        },
+        "T3N": {
+            "am_pathogenicity": 0.0684,
+            "am_class": "benign"
+        },
+        "T3P": {
+            "am_pathogenicity": 0.0633,
+            "am_class": "benign"
+        },
+        "T3Q": {
+            "am_pathogenicity": 0.1293,
+            "am_class": "benign"
+        },
+        "T3R": {
+            "am_pathogenicity": 0.3653,
+            "am_class": "ambiguous"
+        },
+        "T3S": {
+            "am_pathogenicity": 0.0582,
+            "am_class": "benign"
+        },
+        "T3V": {
+            "am_pathogenicity": 0.0825,
+            "am_class": "benign"
+        },
+        "T3W": {
+            "am_pathogenicity": 0.4636,
+            "am_class": "ambiguous"
+        },
+        "T3Y": {
+            "am_pathogenicity": 0.1995,
+            "am_class": "benign"
+        },
+        "Q4A": {
+            "am_pathogenicity": 0.082,
+            "am_class": "benign"
+        },
+        "Q4C": {
+            "am_pathogenicity": 0.4342,
+            "am_class": "ambiguous"
+        },
+        "Q4D": {
+            "am_pathogenicity": 0.2168,
+            "am_class": "benign"
+        },
+        "Q4E": {
+            "am_pathogenicity": 0.1026,
+            "am_class": "benign"
+        },
+        "Q4F": {
+            "am_pathogenicity": 0.5191,
+            "am_class": "ambiguous"
+        },
+        "Q4G": {
+            "am_pathogenicity": 0.0919,
+            "am_class": "benign"
+        },
+        "Q4H": {
+            "am_pathogenicity": 0.1747,
+            "am_class": "benign"
+        },
+        "Q4I": {
+            "am_pathogenicity": 0.2396,
+            "am_class": "benign"
+        },
+        "Q4K": {
+            "am_pathogenicity": 0.1987,
+            "am_class": "benign"
+        },
+        "Q4L": {
+            "am_pathogenicity": 0.1281,
+            "am_class": "benign"
+        },
+        "Q4M": {
+            "am_pathogenicity": 0.2257,
+            "am_class": "benign"
+        },
+        "Q4N": {
+            "am_pathogenicity": 0.1103,
+            "am_class": "benign"
+        },
+        "Q4P": {
+            "am_pathogenicity": 0.0634,
+            "am_class": "benign"
+        },
+        "Q4R": {
+            "am_pathogenicity": 0.2461,
+            "am_class": "benign"
+        },
+        "Q4S": {
+            "am_pathogenicity": 0.0726,
+            "am_class": "benign"
+        },
+        "Q4T": {
+            "am_pathogenicity": 0.0835,
+            "am_class": "benign"
+        },
+        "Q4V": {
+            "am_pathogenicity": 0.1406,
+            "am_class": "benign"
+        },
+        "Q4W": {
+            "am_pathogenicity": 0.6649,
+            "am_class": "pathogenic"
+        },
+        "Q4Y": {
+            "am_pathogenicity": 0.4291,
+            "am_class": "ambiguous"
+        },
+        "K5A": {
+            "am_pathogenicity": 0.3158,
+            "am_class": "benign"
+        },
+        "K5C": {
+            "am_pathogenicity": 0.7431,
+            "am_class": "pathogenic"
+        },
+        "K5D": {
+            "am_pathogenicity": 0.3647,
+            "am_class": "ambiguous"
+        },
+        "K5E": {
+            "am_pathogenicity": 0.1884,
+            "am_class": "benign"
+        },
+        "K5F": {
+            "am_pathogenicity": 0.871,
+            "am_class": "pathogenic"
+        },
+        "K5G": {
+            "am_pathogenicity": 0.2691,
+            "am_class": "benign"
+        },
+        "K5H": {
+            "am_pathogenicity": 0.3333,
+            "am_class": "benign"
+        },
+        "K5I": {
+            "am_pathogenicity": 0.6395,
+            "am_class": "pathogenic"
+        },
+        "K5L": {
+            "am_pathogenicity": 0.5134,
+            "am_class": "ambiguous"
+        },
+        "K5M": {
+            "am_pathogenicity": 0.5407,
+            "am_class": "ambiguous"
+        },
+        "K5N": {
+            "am_pathogenicity": 0.3684,
+            "am_class": "ambiguous"
+        },
+        "K5P": {
+            "am_pathogenicity": 0.3106,
+            "am_class": "benign"
+        },
+        "K5Q": {
+            "am_pathogenicity": 0.1474,
+            "am_class": "benign"
+        },
+        "K5R": {
+            "am_pathogenicity": 0.0931,
+            "am_class": "benign"
+        },
+        "K5S": {
+            "am_pathogenicity": 0.3359,
+            "am_class": "benign"
+        },
+        "K5T": {
+            "am_pathogenicity": 0.2622,
+            "am_class": "benign"
+        },
+        "K5V": {
+            "am_pathogenicity": 0.5011,
+            "am_class": "ambiguous"
+        },
+        "K5W": {
+            "am_pathogenicity": 0.8563,
+            "am_class": "pathogenic"
+        },
+        "K5Y": {
+            "am_pathogenicity": 0.742,
+            "am_class": "pathogenic"
+        },
+        "D6A": {
+            "am_pathogenicity": 0.2712,
+            "am_class": "benign"
+        },
+        "D6C": {
+            "am_pathogenicity": 0.6764,
+            "am_class": "pathogenic"
+        },
+        "D6E": {
+            "am_pathogenicity": 0.0922,
+            "am_class": "benign"
+        },
+        "D6F": {
+            "am_pathogenicity": 0.7296,
+            "am_class": "pathogenic"
+        },
+        "D6G": {
+            "am_pathogenicity": 0.2493,
+            "am_class": "benign"
+        },
+        "D6H": {
+            "am_pathogenicity": 0.5938,
+            "am_class": "pathogenic"
+        },
+        "D6I": {
+            "am_pathogenicity": 0.4619,
+            "am_class": "ambiguous"
+        },
+        "D6K": {
+            "am_pathogenicity": 0.7217,
+            "am_class": "pathogenic"
+        },
+        "D6L": {
+            "am_pathogenicity": 0.4847,
+            "am_class": "ambiguous"
+        },
+        "D6M": {
+            "am_pathogenicity": 0.6208,
+            "am_class": "pathogenic"
+        },
+        "D6N": {
+            "am_pathogenicity": 0.1937,
+            "am_class": "benign"
+        },
+        "D6P": {
+            "am_pathogenicity": 0.5258,
+            "am_class": "ambiguous"
+        },
+        "D6Q": {
+            "am_pathogenicity": 0.4514,
+            "am_class": "ambiguous"
+        },
+        "D6R": {
+            "am_pathogenicity": 0.7481,
+            "am_class": "pathogenic"
+        },
+        "D6S": {
+            "am_pathogenicity": 0.2252,
+            "am_class": "benign"
+        },
+        "D6T": {
+            "am_pathogenicity": 0.296,
+            "am_class": "benign"
+        },
+        "D6V": {
+            "am_pathogenicity": 0.3331,
+            "am_class": "benign"
+        },
+        "D6W": {
+            "am_pathogenicity": 0.9338,
+            "am_class": "pathogenic"
+        },
+        "D6Y": {
+            "am_pathogenicity": 0.5383,
+            "am_class": "ambiguous"
+        },
+        "V7A": {
+            "am_pathogenicity": 0.091,
+            "am_class": "benign"
+        },
+        "V7C": {
+            "am_pathogenicity": 0.2238,
+            "am_class": "benign"
+        },
+        "V7D": {
+            "am_pathogenicity": 0.3583,
+            "am_class": "ambiguous"
+        },
+        "V7E": {
+            "am_pathogenicity": 0.3376,
+            "am_class": "benign"
+        },
+        "V7F": {
+            "am_pathogenicity": 0.0824,
+            "am_class": "benign"
+        },
+        "V7G": {
+            "am_pathogenicity": 0.1108,
+            "am_class": "benign"
+        },
+        "V7H": {
+            "am_pathogenicity": 0.258,
+            "am_class": "benign"
+        },
+        "V7I": {
+            "am_pathogenicity": 0.0544,
+            "am_class": "benign"
+        },
+        "V7K": {
+            "am_pathogenicity": 0.4447,
+            "am_class": "ambiguous"
+        },
+        "V7L": {
+            "am_pathogenicity": 0.0723,
+            "am_class": "benign"
+        },
+        "V7M": {
+            "am_pathogenicity": 0.0724,
+            "am_class": "benign"
+        },
+        "V7N": {
+            "am_pathogenicity": 0.1024,
+            "am_class": "benign"
+        },
+        "V7P": {
+            "am_pathogenicity": 0.1445,
+            "am_class": "benign"
+        },
+        "V7Q": {
+            "am_pathogenicity": 0.162,
+            "am_class": "benign"
+        },
+        "V7R": {
+            "am_pathogenicity": 0.4503,
+            "am_class": "ambiguous"
+        },
+        "V7S": {
+            "am_pathogenicity": 0.0936,
+            "am_class": "benign"
+        },
+        "V7T": {
+            "am_pathogenicity": 0.095,
+            "am_class": "benign"
+        },
+        "V7W": {
+            "am_pathogenicity": 0.4777,
+            "am_class": "ambiguous"
+        },
+        "V7Y": {
+            "am_pathogenicity": 0.2394,
+            "am_class": "benign"
+        },
+        "Q8A": {
+            "am_pathogenicity": 0.0614,
+            "am_class": "benign"
+        },
+        "Q8C": {
+            "am_pathogenicity": 0.3288,
+            "am_class": "benign"
+        },
+        "Q8D": {
+            "am_pathogenicity": 0.4135,
+            "am_class": "ambiguous"
+        },
+        "Q8E": {
+            "am_pathogenicity": 0.1706,
+            "am_class": "benign"
+        },
+        "Q8F": {
+            "am_pathogenicity": 0.3141,
+            "am_class": "benign"
+        },
+        "Q8G": {
+            "am_pathogenicity": 0.1396,
+            "am_class": "benign"
+        },
+        "Q8H": {
+            "am_pathogenicity": 0.1653,
+            "am_class": "benign"
+        },
+        "Q8I": {
+            "am_pathogenicity": 0.1101,
+            "am_class": "benign"
+        },
+        "Q8K": {
+            "am_pathogenicity": 0.2784,
+            "am_class": "benign"
+        },
+        "Q8L": {
+            "am_pathogenicity": 0.065,
+            "am_class": "benign"
+        },
+        "Q8M": {
+            "am_pathogenicity": 0.1186,
+            "am_class": "benign"
+        },
+        "Q8N": {
+            "am_pathogenicity": 0.1255,
+            "am_class": "benign"
+        },
+        "Q8P": {
+            "am_pathogenicity": 0.0515,
+            "am_class": "benign"
+        },
+        "Q8R": {
+            "am_pathogenicity": 0.3254,
+            "am_class": "benign"
+        },
+        "Q8S": {
+            "am_pathogenicity": 0.0707,
+            "am_class": "benign"
+        },
+        "Q8T": {
+            "am_pathogenicity": 0.07,
+            "am_class": "benign"
+        },
+        "Q8V": {
+            "am_pathogenicity": 0.0739,
+            "am_class": "benign"
+        },
+        "Q8W": {
+            "am_pathogenicity": 0.6083,
+            "am_class": "pathogenic"
+        },
+        "Q8Y": {
+            "am_pathogenicity": 0.3201,
+            "am_class": "benign"
+        },
+        "P9A": {
+            "am_pathogenicity": 0.0651,
+            "am_class": "benign"
+        },
+        "P9C": {
+            "am_pathogenicity": 0.3157,
+            "am_class": "benign"
+        },
+        "P9D": {
+            "am_pathogenicity": 0.6398,
+            "am_class": "pathogenic"
+        },
+        "P9E": {
+            "am_pathogenicity": 0.4108,
+            "am_class": "ambiguous"
+        },
+        "P9F": {
+            "am_pathogenicity": 0.3035,
+            "am_class": "benign"
+        },
+        "P9G": {
+            "am_pathogenicity": 0.1626,
+            "am_class": "benign"
+        },
+        "P9H": {
+            "am_pathogenicity": 0.2459,
+            "am_class": "benign"
+        },
+        "P9I": {
+            "am_pathogenicity": 0.1309,
+            "am_class": "benign"
+        },
+        "P9K": {
+            "am_pathogenicity": 0.5239,
+            "am_class": "ambiguous"
+        },
+        "P9L": {
+            "am_pathogenicity": 0.0816,
+            "am_class": "benign"
+        },
+        "P9M": {
+            "am_pathogenicity": 0.1445,
+            "am_class": "benign"
+        },
+        "P9N": {
+            "am_pathogenicity": 0.2073,
+            "am_class": "benign"
+        },
+        "P9Q": {
+            "am_pathogenicity": 0.1305,
+            "am_class": "benign"
+        },
+        "P9R": {
+            "am_pathogenicity": 0.4741,
+            "am_class": "ambiguous"
+        },
+        "P9S": {
+            "am_pathogenicity": 0.1087,
+            "am_class": "benign"
+        },
+        "P9T": {
+            "am_pathogenicity": 0.0894,
+            "am_class": "benign"
+        },
+        "P9V": {
+            "am_pathogenicity": 0.0989,
+            "am_class": "benign"
+        },
+        "P9W": {
+            "am_pathogenicity": 0.6715,
+            "am_class": "pathogenic"
+        },
+        "P9Y": {
+            "am_pathogenicity": 0.3627,
+            "am_class": "ambiguous"
+        },
+        "P10A": {
+            "am_pathogenicity": 0.0602,
+            "am_class": "benign"
+        },
+        "P10C": {
+            "am_pathogenicity": 0.2895,
+            "am_class": "benign"
+        },
+        "P10D": {
+            "am_pathogenicity": 0.631,
+            "am_class": "pathogenic"
+        },
+        "P10E": {
+            "am_pathogenicity": 0.3855,
+            "am_class": "ambiguous"
+        },
+        "P10F": {
+            "am_pathogenicity": 0.3579,
+            "am_class": "ambiguous"
+        },
+        "P10G": {
+            "am_pathogenicity": 0.1604,
+            "am_class": "benign"
+        },
+        "P10H": {
+            "am_pathogenicity": 0.2419,
+            "am_class": "benign"
+        },
+        "P10I": {
+            "am_pathogenicity": 0.1412,
+            "am_class": "benign"
+        },
+        "P10K": {
+            "am_pathogenicity": 0.4946,
+            "am_class": "ambiguous"
+        },
+        "P10L": {
+            "am_pathogenicity": 0.0962,
+            "am_class": "benign"
+        },
+        "P10M": {
+            "am_pathogenicity": 0.1643,
+            "am_class": "benign"
+        },
+        "P10N": {
+            "am_pathogenicity": 0.2192,
+            "am_class": "benign"
+        },
+        "P10Q": {
+            "am_pathogenicity": 0.1145,
+            "am_class": "benign"
+        },
+        "P10R": {
+            "am_pathogenicity": 0.4308,
+            "am_class": "ambiguous"
+        },
+        "P10S": {
+            "am_pathogenicity": 0.1017,
+            "am_class": "benign"
+        },
+        "P10T": {
+            "am_pathogenicity": 0.0904,
+            "am_class": "benign"
+        },
+        "P10V": {
+            "am_pathogenicity": 0.091,
+            "am_class": "benign"
+        },
+        "P10W": {
+            "am_pathogenicity": 0.6773,
+            "am_class": "pathogenic"
+        },
+        "P10Y": {
+            "am_pathogenicity": 0.4143,
+            "am_class": "ambiguous"
+        },
+        "K11A": {
+            "am_pathogenicity": 0.6872,
+            "am_class": "pathogenic"
+        },
+        "K11C": {
+            "am_pathogenicity": 0.8727,
+            "am_class": "pathogenic"
+        },
+        "K11D": {
+            "am_pathogenicity": 0.9075,
+            "am_class": "pathogenic"
+        },
+        "K11E": {
+            "am_pathogenicity": 0.701,
+            "am_class": "pathogenic"
+        },
+        "K11F": {
+            "am_pathogenicity": 0.9572,
+            "am_class": "pathogenic"
+        },
+        "K11G": {
+            "am_pathogenicity": 0.7161,
+            "am_class": "pathogenic"
+        },
+        "K11H": {
+            "am_pathogenicity": 0.6017,
+            "am_class": "pathogenic"
+        },
+        "K11I": {
+            "am_pathogenicity": 0.7865,
+            "am_class": "pathogenic"
+        },
+        "K11L": {
+            "am_pathogenicity": 0.7155,
+            "am_class": "pathogenic"
+        },
+        "K11M": {
+            "am_pathogenicity": 0.8018,
+            "am_class": "pathogenic"
+        },
+        "K11N": {
+            "am_pathogenicity": 0.89,
+            "am_class": "pathogenic"
+        },
+        "K11P": {
+            "am_pathogenicity": 0.5282,
+            "am_class": "ambiguous"
+        },
+        "K11Q": {
+            "am_pathogenicity": 0.3211,
+            "am_class": "benign"
+        },
+        "K11R": {
+            "am_pathogenicity": 0.0885,
+            "am_class": "benign"
+        },
+        "K11S": {
+            "am_pathogenicity": 0.8012,
+            "am_class": "pathogenic"
+        },
+        "K11T": {
+            "am_pathogenicity": 0.6869,
+            "am_class": "pathogenic"
+        },
+        "K11V": {
+            "am_pathogenicity": 0.6639,
+            "am_class": "pathogenic"
+        },
+        "K11W": {
+            "am_pathogenicity": 0.9532,
+            "am_class": "pathogenic"
+        },
+        "K11Y": {
+            "am_pathogenicity": 0.9198,
+            "am_class": "pathogenic"
+        },
+        "Q12A": {
+            "am_pathogenicity": 0.0991,
+            "am_class": "benign"
+        },
+        "Q12C": {
+            "am_pathogenicity": 0.5693,
+            "am_class": "pathogenic"
+        },
+        "Q12D": {
+            "am_pathogenicity": 0.7035,
+            "am_class": "pathogenic"
+        },
+        "Q12E": {
+            "am_pathogenicity": 0.2914,
+            "am_class": "benign"
+        },
+        "Q12F": {
+            "am_pathogenicity": 0.6045,
+            "am_class": "pathogenic"
+        },
+        "Q12G": {
+            "am_pathogenicity": 0.1742,
+            "am_class": "benign"
+        },
+        "Q12H": {
+            "am_pathogenicity": 0.3159,
+            "am_class": "benign"
+        },
+        "Q12I": {
+            "am_pathogenicity": 0.2296,
+            "am_class": "benign"
+        },
+        "Q12K": {
+            "am_pathogenicity": 0.4122,
+            "am_class": "ambiguous"
+        },
+        "Q12L": {
+            "am_pathogenicity": 0.1167,
+            "am_class": "benign"
+        },
+        "Q12M": {
+            "am_pathogenicity": 0.1907,
+            "am_class": "benign"
+        },
+        "Q12N": {
+            "am_pathogenicity": 0.2113,
+            "am_class": "benign"
+        },
+        "Q12P": {
+            "am_pathogenicity": 0.0742,
+            "am_class": "benign"
+        },
+        "Q12R": {
+            "am_pathogenicity": 0.4757,
+            "am_class": "ambiguous"
+        },
+        "Q12S": {
+            "am_pathogenicity": 0.1152,
+            "am_class": "benign"
+        },
+        "Q12T": {
+            "am_pathogenicity": 0.1141,
+            "am_class": "benign"
+        },
+        "Q12V": {
+            "am_pathogenicity": 0.1316,
+            "am_class": "benign"
+        },
+        "Q12W": {
+            "am_pathogenicity": 0.8263,
+            "am_class": "pathogenic"
+        },
+        "Q12Y": {
+            "am_pathogenicity": 0.5195,
+            "am_class": "ambiguous"
+        },
+        "Q13A": {
+            "am_pathogenicity": 0.1108,
+            "am_class": "benign"
+        },
+        "Q13C": {
+            "am_pathogenicity": 0.6355,
+            "am_class": "pathogenic"
+        },
+        "Q13D": {
+            "am_pathogenicity": 0.7294,
+            "am_class": "pathogenic"
+        },
+        "Q13E": {
+            "am_pathogenicity": 0.2488,
+            "am_class": "benign"
+        },
+        "Q13F": {
+            "am_pathogenicity": 0.6067,
+            "am_class": "pathogenic"
+        },
+        "Q13G": {
+            "am_pathogenicity": 0.2336,
+            "am_class": "benign"
+        },
+        "Q13H": {
+            "am_pathogenicity": 0.3776,
+            "am_class": "ambiguous"
+        },
+        "Q13I": {
+            "am_pathogenicity": 0.1973,
+            "am_class": "benign"
+        },
+        "Q13K": {
+            "am_pathogenicity": 0.4374,
+            "am_class": "ambiguous"
+        },
+        "Q13L": {
+            "am_pathogenicity": 0.1151,
+            "am_class": "benign"
+        },
+        "Q13M": {
+            "am_pathogenicity": 0.1708,
+            "am_class": "benign"
+        },
+        "Q13N": {
+            "am_pathogenicity": 0.2314,
+            "am_class": "benign"
+        },
+        "Q13P": {
+            "am_pathogenicity": 0.1307,
+            "am_class": "benign"
+        },
+        "Q13R": {
+            "am_pathogenicity": 0.5326,
+            "am_class": "ambiguous"
+        },
+        "Q13S": {
+            "am_pathogenicity": 0.1342,
+            "am_class": "benign"
+        },
+        "Q13T": {
+            "am_pathogenicity": 0.1038,
+            "am_class": "benign"
+        },
+        "Q13V": {
+            "am_pathogenicity": 0.1121,
+            "am_class": "benign"
+        },
+        "Q13W": {
+            "am_pathogenicity": 0.8699,
+            "am_class": "pathogenic"
+        },
+        "Q13Y": {
+            "am_pathogenicity": 0.5864,
+            "am_class": "pathogenic"
+        },
+        "P14A": {
+            "am_pathogenicity": 0.1663,
+            "am_class": "benign"
+        },
+        "P14C": {
+            "am_pathogenicity": 0.803,
+            "am_class": "pathogenic"
+        },
+        "P14D": {
+            "am_pathogenicity": 0.9339,
+            "am_class": "pathogenic"
+        },
+        "P14E": {
+            "am_pathogenicity": 0.8868,
+            "am_class": "pathogenic"
+        },
+        "P14F": {
+            "am_pathogenicity": 0.9563,
+            "am_class": "pathogenic"
+        },
+        "P14G": {
+            "am_pathogenicity": 0.5088,
+            "am_class": "ambiguous"
+        },
+        "P14H": {
+            "am_pathogenicity": 0.7568,
+            "am_class": "pathogenic"
+        },
+        "P14I": {
+            "am_pathogenicity": 0.8939,
+            "am_class": "pathogenic"
+        },
+        "P14K": {
+            "am_pathogenicity": 0.9454,
+            "am_class": "pathogenic"
+        },
+        "P14L": {
+            "am_pathogenicity": 0.6795,
+            "am_class": "pathogenic"
+        },
+        "P14M": {
+            "am_pathogenicity": 0.8177,
+            "am_class": "pathogenic"
+        },
+        "P14N": {
+            "am_pathogenicity": 0.6717,
+            "am_class": "pathogenic"
+        },
+        "P14Q": {
+            "am_pathogenicity": 0.6217,
+            "am_class": "pathogenic"
+        },
+        "P14R": {
+            "am_pathogenicity": 0.8998,
+            "am_class": "pathogenic"
+        },
+        "P14S": {
+            "am_pathogenicity": 0.3139,
+            "am_class": "benign"
+        },
+        "P14T": {
+            "am_pathogenicity": 0.4365,
+            "am_class": "ambiguous"
+        },
+        "P14V": {
+            "am_pathogenicity": 0.7088,
+            "am_class": "pathogenic"
+        },
+        "P14W": {
+            "am_pathogenicity": 0.9806,
+            "am_class": "pathogenic"
+        },
+        "P14Y": {
+            "am_pathogenicity": 0.946,
+            "am_class": "pathogenic"
+        },
+        "M15A": {
+            "am_pathogenicity": 0.9604,
+            "am_class": "pathogenic"
+        },
+        "M15C": {
+            "am_pathogenicity": 0.7839,
+            "am_class": "pathogenic"
+        },
+        "M15D": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "M15E": {
+            "am_pathogenicity": 0.9968,
+            "am_class": "pathogenic"
+        },
+        "M15F": {
+            "am_pathogenicity": 0.8841,
+            "am_class": "pathogenic"
+        },
+        "M15G": {
+            "am_pathogenicity": 0.9902,
+            "am_class": "pathogenic"
+        },
+        "M15H": {
+            "am_pathogenicity": 0.9936,
+            "am_class": "pathogenic"
+        },
+        "M15I": {
+            "am_pathogenicity": 0.937,
+            "am_class": "pathogenic"
+        },
+        "M15K": {
+            "am_pathogenicity": 0.9925,
+            "am_class": "pathogenic"
+        },
+        "M15L": {
+            "am_pathogenicity": 0.7261,
+            "am_class": "pathogenic"
+        },
+        "M15N": {
+            "am_pathogenicity": 0.9858,
+            "am_class": "pathogenic"
+        },
+        "M15P": {
+            "am_pathogenicity": 0.9954,
+            "am_class": "pathogenic"
+        },
+        "M15Q": {
+            "am_pathogenicity": 0.9646,
+            "am_class": "pathogenic"
+        },
+        "M15R": {
+            "am_pathogenicity": 0.9909,
+            "am_class": "pathogenic"
+        },
+        "M15S": {
+            "am_pathogenicity": 0.9728,
+            "am_class": "pathogenic"
+        },
+        "M15T": {
+            "am_pathogenicity": 0.964,
+            "am_class": "pathogenic"
+        },
+        "M15V": {
+            "am_pathogenicity": 0.3082,
+            "am_class": "benign"
+        },
+        "M15W": {
+            "am_pathogenicity": 0.9908,
+            "am_class": "pathogenic"
+        },
+        "M15Y": {
+            "am_pathogenicity": 0.981,
+            "am_class": "pathogenic"
+        },
+        "I16A": {
+            "am_pathogenicity": 0.768,
+            "am_class": "pathogenic"
+        },
+        "I16C": {
+            "am_pathogenicity": 0.8101,
+            "am_class": "pathogenic"
+        },
+        "I16D": {
+            "am_pathogenicity": 0.9881,
+            "am_class": "pathogenic"
+        },
+        "I16E": {
+            "am_pathogenicity": 0.9651,
+            "am_class": "pathogenic"
+        },
+        "I16F": {
+            "am_pathogenicity": 0.5489,
+            "am_class": "ambiguous"
+        },
+        "I16G": {
+            "am_pathogenicity": 0.9277,
+            "am_class": "pathogenic"
+        },
+        "I16H": {
+            "am_pathogenicity": 0.9376,
+            "am_class": "pathogenic"
+        },
+        "I16K": {
+            "am_pathogenicity": 0.9488,
+            "am_class": "pathogenic"
+        },
+        "I16L": {
+            "am_pathogenicity": 0.3201,
+            "am_class": "benign"
+        },
+        "I16M": {
+            "am_pathogenicity": 0.3241,
+            "am_class": "benign"
+        },
+        "I16N": {
+            "am_pathogenicity": 0.7982,
+            "am_class": "pathogenic"
+        },
+        "I16P": {
+            "am_pathogenicity": 0.9732,
+            "am_class": "pathogenic"
+        },
+        "I16Q": {
+            "am_pathogenicity": 0.9056,
+            "am_class": "pathogenic"
+        },
+        "I16R": {
+            "am_pathogenicity": 0.9307,
+            "am_class": "pathogenic"
+        },
+        "I16S": {
+            "am_pathogenicity": 0.7735,
+            "am_class": "pathogenic"
+        },
+        "I16T": {
+            "am_pathogenicity": 0.5559,
+            "am_class": "ambiguous"
+        },
+        "I16V": {
+            "am_pathogenicity": 0.0825,
+            "am_class": "benign"
+        },
+        "I16W": {
+            "am_pathogenicity": 0.9616,
+            "am_class": "pathogenic"
+        },
+        "I16Y": {
+            "am_pathogenicity": 0.8365,
+            "am_class": "pathogenic"
+        },
+        "Y17A": {
+            "am_pathogenicity": 0.996,
+            "am_class": "pathogenic"
+        },
+        "Y17C": {
+            "am_pathogenicity": 0.9942,
+            "am_class": "pathogenic"
+        },
+        "Y17D": {
+            "am_pathogenicity": 0.997,
+            "am_class": "pathogenic"
+        },
+        "Y17E": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "Y17F": {
+            "am_pathogenicity": 0.879,
+            "am_class": "pathogenic"
+        },
+        "Y17G": {
+            "am_pathogenicity": 0.9881,
+            "am_class": "pathogenic"
+        },
+        "Y17H": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "Y17I": {
+            "am_pathogenicity": 0.9893,
+            "am_class": "pathogenic"
+        },
+        "Y17K": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "Y17L": {
+            "am_pathogenicity": 0.967,
+            "am_class": "pathogenic"
+        },
+        "Y17M": {
+            "am_pathogenicity": 0.9977,
+            "am_class": "pathogenic"
+        },
+        "Y17N": {
+            "am_pathogenicity": 0.9973,
+            "am_class": "pathogenic"
+        },
+        "Y17P": {
+            "am_pathogenicity": 0.9923,
+            "am_class": "pathogenic"
+        },
+        "Y17Q": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "Y17R": {
+            "am_pathogenicity": 0.999,
+            "am_class": "pathogenic"
+        },
+        "Y17S": {
+            "am_pathogenicity": 0.9891,
+            "am_class": "pathogenic"
+        },
+        "Y17T": {
+            "am_pathogenicity": 0.9969,
+            "am_class": "pathogenic"
+        },
+        "Y17V": {
+            "am_pathogenicity": 0.9803,
+            "am_class": "pathogenic"
+        },
+        "Y17W": {
+            "am_pathogenicity": 0.9514,
+            "am_class": "pathogenic"
+        },
+        "I18A": {
+            "am_pathogenicity": 0.985,
+            "am_class": "pathogenic"
+        },
+        "I18C": {
+            "am_pathogenicity": 0.9723,
+            "am_class": "pathogenic"
+        },
+        "I18D": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "I18E": {
+            "am_pathogenicity": 0.9953,
+            "am_class": "pathogenic"
+        },
+        "I18F": {
+            "am_pathogenicity": 0.8895,
+            "am_class": "pathogenic"
+        },
+        "I18G": {
+            "am_pathogenicity": 0.997,
+            "am_class": "pathogenic"
+        },
+        "I18H": {
+            "am_pathogenicity": 0.9931,
+            "am_class": "pathogenic"
+        },
+        "I18K": {
+            "am_pathogenicity": 0.9926,
+            "am_class": "pathogenic"
+        },
+        "I18L": {
+            "am_pathogenicity": 0.5745,
+            "am_class": "pathogenic"
+        },
+        "I18M": {
+            "am_pathogenicity": 0.733,
+            "am_class": "pathogenic"
+        },
+        "I18N": {
+            "am_pathogenicity": 0.9813,
+            "am_class": "pathogenic"
+        },
+        "I18P": {
+            "am_pathogenicity": 0.9993,
+            "am_class": "pathogenic"
+        },
+        "I18Q": {
+            "am_pathogenicity": 0.9886,
+            "am_class": "pathogenic"
+        },
+        "I18R": {
+            "am_pathogenicity": 0.9856,
+            "am_class": "pathogenic"
+        },
+        "I18S": {
+            "am_pathogenicity": 0.9786,
+            "am_class": "pathogenic"
+        },
+        "I18T": {
+            "am_pathogenicity": 0.9121,
+            "am_class": "pathogenic"
+        },
+        "I18V": {
+            "am_pathogenicity": 0.1453,
+            "am_class": "benign"
+        },
+        "I18W": {
+            "am_pathogenicity": 0.9942,
+            "am_class": "pathogenic"
+        },
+        "I18Y": {
+            "am_pathogenicity": 0.9712,
+            "am_class": "pathogenic"
+        },
+        "C19A": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "C19D": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "C19E": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "C19F": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "C19G": {
+            "am_pathogenicity": 0.9975,
+            "am_class": "pathogenic"
+        },
+        "C19H": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "C19I": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "C19K": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "C19L": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "C19M": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "C19N": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "C19P": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "C19Q": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "C19R": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "C19S": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "C19T": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "C19V": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "C19W": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "C19Y": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "G20A": {
+            "am_pathogenicity": 0.9414,
+            "am_class": "pathogenic"
+        },
+        "G20C": {
+            "am_pathogenicity": 0.9986,
+            "am_class": "pathogenic"
+        },
+        "G20D": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "G20E": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "G20F": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "G20H": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "G20I": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "G20K": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "G20L": {
+            "am_pathogenicity": 0.9993,
+            "am_class": "pathogenic"
+        },
+        "G20M": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "G20N": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "G20P": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "G20Q": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "G20R": {
+            "am_pathogenicity": 0.9987,
+            "am_class": "pathogenic"
+        },
+        "G20S": {
+            "am_pathogenicity": 0.993,
+            "am_class": "pathogenic"
+        },
+        "G20T": {
+            "am_pathogenicity": 0.9988,
+            "am_class": "pathogenic"
+        },
+        "G20V": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "G20W": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "G20Y": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "E21A": {
+            "am_pathogenicity": 0.9058,
+            "am_class": "pathogenic"
+        },
+        "E21C": {
+            "am_pathogenicity": 0.989,
+            "am_class": "pathogenic"
+        },
+        "E21D": {
+            "am_pathogenicity": 0.4421,
+            "am_class": "ambiguous"
+        },
+        "E21F": {
+            "am_pathogenicity": 0.9939,
+            "am_class": "pathogenic"
+        },
+        "E21G": {
+            "am_pathogenicity": 0.8308,
+            "am_class": "pathogenic"
+        },
+        "E21H": {
+            "am_pathogenicity": 0.9774,
+            "am_class": "pathogenic"
+        },
+        "E21I": {
+            "am_pathogenicity": 0.9958,
+            "am_class": "pathogenic"
+        },
+        "E21K": {
+            "am_pathogenicity": 0.9778,
+            "am_class": "pathogenic"
+        },
+        "E21L": {
+            "am_pathogenicity": 0.9906,
+            "am_class": "pathogenic"
+        },
+        "E21M": {
+            "am_pathogenicity": 0.9922,
+            "am_class": "pathogenic"
+        },
+        "E21N": {
+            "am_pathogenicity": 0.9293,
+            "am_class": "pathogenic"
+        },
+        "E21P": {
+            "am_pathogenicity": 0.9962,
+            "am_class": "pathogenic"
+        },
+        "E21Q": {
+            "am_pathogenicity": 0.8892,
+            "am_class": "pathogenic"
+        },
+        "E21R": {
+            "am_pathogenicity": 0.971,
+            "am_class": "pathogenic"
+        },
+        "E21S": {
+            "am_pathogenicity": 0.8926,
+            "am_class": "pathogenic"
+        },
+        "E21T": {
+            "am_pathogenicity": 0.9823,
+            "am_class": "pathogenic"
+        },
+        "E21V": {
+            "am_pathogenicity": 0.9846,
+            "am_class": "pathogenic"
+        },
+        "E21W": {
+            "am_pathogenicity": 0.9966,
+            "am_class": "pathogenic"
+        },
+        "E21Y": {
+            "am_pathogenicity": 0.9794,
+            "am_class": "pathogenic"
+        },
+        "C22A": {
+            "am_pathogenicity": 0.9993,
+            "am_class": "pathogenic"
+        },
+        "C22D": {
+            "am_pathogenicity": 0.9989,
+            "am_class": "pathogenic"
+        },
+        "C22E": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "C22F": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "C22G": {
+            "am_pathogenicity": 0.9944,
+            "am_class": "pathogenic"
+        },
+        "C22H": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "C22I": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "C22K": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "C22L": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "C22M": {
+            "am_pathogenicity": 0.9993,
+            "am_class": "pathogenic"
+        },
+        "C22N": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "C22P": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "C22Q": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "C22R": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "C22S": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "C22T": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "C22V": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "C22W": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "C22Y": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "H23A": {
+            "am_pathogenicity": 0.974,
+            "am_class": "pathogenic"
+        },
+        "H23C": {
+            "am_pathogenicity": 0.8007,
+            "am_class": "pathogenic"
+        },
+        "H23D": {
+            "am_pathogenicity": 0.9918,
+            "am_class": "pathogenic"
+        },
+        "H23E": {
+            "am_pathogenicity": 0.9918,
+            "am_class": "pathogenic"
+        },
+        "H23F": {
+            "am_pathogenicity": 0.9186,
+            "am_class": "pathogenic"
+        },
+        "H23G": {
+            "am_pathogenicity": 0.8498,
+            "am_class": "pathogenic"
+        },
+        "H23I": {
+            "am_pathogenicity": 0.9985,
+            "am_class": "pathogenic"
+        },
+        "H23K": {
+            "am_pathogenicity": 0.953,
+            "am_class": "pathogenic"
+        },
+        "H23L": {
+            "am_pathogenicity": 0.9598,
+            "am_class": "pathogenic"
+        },
+        "H23M": {
+            "am_pathogenicity": 0.9888,
+            "am_class": "pathogenic"
+        },
+        "H23N": {
+            "am_pathogenicity": 0.9057,
+            "am_class": "pathogenic"
+        },
+        "H23P": {
+            "am_pathogenicity": 0.9869,
+            "am_class": "pathogenic"
+        },
+        "H23Q": {
+            "am_pathogenicity": 0.9349,
+            "am_class": "pathogenic"
+        },
+        "H23R": {
+            "am_pathogenicity": 0.8568,
+            "am_class": "pathogenic"
+        },
+        "H23S": {
+            "am_pathogenicity": 0.9376,
+            "am_class": "pathogenic"
+        },
+        "H23T": {
+            "am_pathogenicity": 0.9927,
+            "am_class": "pathogenic"
+        },
+        "H23V": {
+            "am_pathogenicity": 0.995,
+            "am_class": "pathogenic"
+        },
+        "H23W": {
+            "am_pathogenicity": 0.9183,
+            "am_class": "pathogenic"
+        },
+        "H23Y": {
+            "am_pathogenicity": 0.8528,
+            "am_class": "pathogenic"
+        },
+        "T24A": {
+            "am_pathogenicity": 0.0916,
+            "am_class": "benign"
+        },
+        "T24C": {
+            "am_pathogenicity": 0.1997,
+            "am_class": "benign"
+        },
+        "T24D": {
+            "am_pathogenicity": 0.7323,
+            "am_class": "pathogenic"
+        },
+        "T24E": {
+            "am_pathogenicity": 0.52,
+            "am_class": "ambiguous"
+        },
+        "T24F": {
+            "am_pathogenicity": 0.3165,
+            "am_class": "benign"
+        },
+        "T24G": {
+            "am_pathogenicity": 0.1585,
+            "am_class": "benign"
+        },
+        "T24H": {
+            "am_pathogenicity": 0.1401,
+            "am_class": "benign"
+        },
+        "T24I": {
+            "am_pathogenicity": 0.4968,
+            "am_class": "ambiguous"
+        },
+        "T24K": {
+            "am_pathogenicity": 0.2547,
+            "am_class": "benign"
+        },
+        "T24L": {
+            "am_pathogenicity": 0.2056,
+            "am_class": "benign"
+        },
+        "T24M": {
+            "am_pathogenicity": 0.1078,
+            "am_class": "benign"
+        },
+        "T24N": {
+            "am_pathogenicity": 0.1239,
+            "am_class": "benign"
+        },
+        "T24P": {
+            "am_pathogenicity": 0.902,
+            "am_class": "pathogenic"
+        },
+        "T24Q": {
+            "am_pathogenicity": 0.1376,
+            "am_class": "benign"
+        },
+        "T24R": {
+            "am_pathogenicity": 0.2842,
+            "am_class": "benign"
+        },
+        "T24S": {
+            "am_pathogenicity": 0.0989,
+            "am_class": "benign"
+        },
+        "T24V": {
+            "am_pathogenicity": 0.2588,
+            "am_class": "benign"
+        },
+        "T24W": {
+            "am_pathogenicity": 0.6967,
+            "am_class": "pathogenic"
+        },
+        "T24Y": {
+            "am_pathogenicity": 0.3444,
+            "am_class": "ambiguous"
+        },
+        "E25A": {
+            "am_pathogenicity": 0.9247,
+            "am_class": "pathogenic"
+        },
+        "E25C": {
+            "am_pathogenicity": 0.9964,
+            "am_class": "pathogenic"
+        },
+        "E25D": {
+            "am_pathogenicity": 0.5911,
+            "am_class": "pathogenic"
+        },
+        "E25F": {
+            "am_pathogenicity": 0.9983,
+            "am_class": "pathogenic"
+        },
+        "E25G": {
+            "am_pathogenicity": 0.9647,
+            "am_class": "pathogenic"
+        },
+        "E25H": {
+            "am_pathogenicity": 0.995,
+            "am_class": "pathogenic"
+        },
+        "E25I": {
+            "am_pathogenicity": 0.9823,
+            "am_class": "pathogenic"
+        },
+        "E25K": {
+            "am_pathogenicity": 0.9843,
+            "am_class": "pathogenic"
+        },
+        "E25L": {
+            "am_pathogenicity": 0.9856,
+            "am_class": "pathogenic"
+        },
+        "E25M": {
+            "am_pathogenicity": 0.9914,
+            "am_class": "pathogenic"
+        },
+        "E25N": {
+            "am_pathogenicity": 0.9656,
+            "am_class": "pathogenic"
+        },
+        "E25P": {
+            "am_pathogenicity": 0.9771,
+            "am_class": "pathogenic"
+        },
+        "E25Q": {
+            "am_pathogenicity": 0.9355,
+            "am_class": "pathogenic"
+        },
+        "E25R": {
+            "am_pathogenicity": 0.9858,
+            "am_class": "pathogenic"
+        },
+        "E25S": {
+            "am_pathogenicity": 0.9513,
+            "am_class": "pathogenic"
+        },
+        "E25T": {
+            "am_pathogenicity": 0.9646,
+            "am_class": "pathogenic"
+        },
+        "E25V": {
+            "am_pathogenicity": 0.9499,
+            "am_class": "pathogenic"
+        },
+        "E25W": {
+            "am_pathogenicity": 0.999,
+            "am_class": "pathogenic"
+        },
+        "E25Y": {
+            "am_pathogenicity": 0.9966,
+            "am_class": "pathogenic"
+        },
+        "N26A": {
+            "am_pathogenicity": 0.9857,
+            "am_class": "pathogenic"
+        },
+        "N26C": {
+            "am_pathogenicity": 0.9057,
+            "am_class": "pathogenic"
+        },
+        "N26D": {
+            "am_pathogenicity": 0.9971,
+            "am_class": "pathogenic"
+        },
+        "N26E": {
+            "am_pathogenicity": 0.9956,
+            "am_class": "pathogenic"
+        },
+        "N26F": {
+            "am_pathogenicity": 0.9926,
+            "am_class": "pathogenic"
+        },
+        "N26G": {
+            "am_pathogenicity": 0.9772,
+            "am_class": "pathogenic"
+        },
+        "N26H": {
+            "am_pathogenicity": 0.9805,
+            "am_class": "pathogenic"
+        },
+        "N26I": {
+            "am_pathogenicity": 0.9604,
+            "am_class": "pathogenic"
+        },
+        "N26K": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "N26L": {
+            "am_pathogenicity": 0.9836,
+            "am_class": "pathogenic"
+        },
+        "N26M": {
+            "am_pathogenicity": 0.9753,
+            "am_class": "pathogenic"
+        },
+        "N26P": {
+            "am_pathogenicity": 0.9985,
+            "am_class": "pathogenic"
+        },
+        "N26Q": {
+            "am_pathogenicity": 0.9949,
+            "am_class": "pathogenic"
+        },
+        "N26R": {
+            "am_pathogenicity": 0.9983,
+            "am_class": "pathogenic"
+        },
+        "N26S": {
+            "am_pathogenicity": 0.8998,
+            "am_class": "pathogenic"
+        },
+        "N26T": {
+            "am_pathogenicity": 0.9092,
+            "am_class": "pathogenic"
+        },
+        "N26V": {
+            "am_pathogenicity": 0.8976,
+            "am_class": "pathogenic"
+        },
+        "N26W": {
+            "am_pathogenicity": 0.9961,
+            "am_class": "pathogenic"
+        },
+        "N26Y": {
+            "am_pathogenicity": 0.9768,
+            "am_class": "pathogenic"
+        },
+        "E27A": {
+            "am_pathogenicity": 0.8685,
+            "am_class": "pathogenic"
+        },
+        "E27C": {
+            "am_pathogenicity": 0.9938,
+            "am_class": "pathogenic"
+        },
+        "E27D": {
+            "am_pathogenicity": 0.5658,
+            "am_class": "pathogenic"
+        },
+        "E27F": {
+            "am_pathogenicity": 0.99,
+            "am_class": "pathogenic"
+        },
+        "E27G": {
+            "am_pathogenicity": 0.9436,
+            "am_class": "pathogenic"
+        },
+        "E27H": {
+            "am_pathogenicity": 0.9801,
+            "am_class": "pathogenic"
+        },
+        "E27I": {
+            "am_pathogenicity": 0.9256,
+            "am_class": "pathogenic"
+        },
+        "E27K": {
+            "am_pathogenicity": 0.9717,
+            "am_class": "pathogenic"
+        },
+        "E27L": {
+            "am_pathogenicity": 0.9538,
+            "am_class": "pathogenic"
+        },
+        "E27M": {
+            "am_pathogenicity": 0.9613,
+            "am_class": "pathogenic"
+        },
+        "E27N": {
+            "am_pathogenicity": 0.9347,
+            "am_class": "pathogenic"
+        },
+        "E27P": {
+            "am_pathogenicity": 0.9783,
+            "am_class": "pathogenic"
+        },
+        "E27Q": {
+            "am_pathogenicity": 0.8054,
+            "am_class": "pathogenic"
+        },
+        "E27R": {
+            "am_pathogenicity": 0.9717,
+            "am_class": "pathogenic"
+        },
+        "E27S": {
+            "am_pathogenicity": 0.8965,
+            "am_class": "pathogenic"
+        },
+        "E27T": {
+            "am_pathogenicity": 0.8838,
+            "am_class": "pathogenic"
+        },
+        "E27V": {
+            "am_pathogenicity": 0.8407,
+            "am_class": "pathogenic"
+        },
+        "E27W": {
+            "am_pathogenicity": 0.9976,
+            "am_class": "pathogenic"
+        },
+        "E27Y": {
+            "am_pathogenicity": 0.984,
+            "am_class": "pathogenic"
+        },
+        "I28A": {
+            "am_pathogenicity": 0.9975,
+            "am_class": "pathogenic"
+        },
+        "I28C": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "I28D": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "I28E": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "I28F": {
+            "am_pathogenicity": 0.9594,
+            "am_class": "pathogenic"
+        },
+        "I28G": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "I28H": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "I28K": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "I28L": {
+            "am_pathogenicity": 0.4395,
+            "am_class": "ambiguous"
+        },
+        "I28M": {
+            "am_pathogenicity": 0.6171,
+            "am_class": "pathogenic"
+        },
+        "I28N": {
+            "am_pathogenicity": 0.9986,
+            "am_class": "pathogenic"
+        },
+        "I28P": {
+            "am_pathogenicity": 0.999,
+            "am_class": "pathogenic"
+        },
+        "I28Q": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "I28R": {
+            "am_pathogenicity": 0.9989,
+            "am_class": "pathogenic"
+        },
+        "I28S": {
+            "am_pathogenicity": 0.9993,
+            "am_class": "pathogenic"
+        },
+        "I28T": {
+            "am_pathogenicity": 0.999,
+            "am_class": "pathogenic"
+        },
+        "I28V": {
+            "am_pathogenicity": 0.7989,
+            "am_class": "pathogenic"
+        },
+        "I28W": {
+            "am_pathogenicity": 0.9986,
+            "am_class": "pathogenic"
+        },
+        "I28Y": {
+            "am_pathogenicity": 0.9967,
+            "am_class": "pathogenic"
+        },
+        "K29A": {
+            "am_pathogenicity": 0.9809,
+            "am_class": "pathogenic"
+        },
+        "K29C": {
+            "am_pathogenicity": 0.9784,
+            "am_class": "pathogenic"
+        },
+        "K29D": {
+            "am_pathogenicity": 0.9965,
+            "am_class": "pathogenic"
+        },
+        "K29E": {
+            "am_pathogenicity": 0.9936,
+            "am_class": "pathogenic"
+        },
+        "K29F": {
+            "am_pathogenicity": 0.997,
+            "am_class": "pathogenic"
+        },
+        "K29G": {
+            "am_pathogenicity": 0.9763,
+            "am_class": "pathogenic"
+        },
+        "K29H": {
+            "am_pathogenicity": 0.8929,
+            "am_class": "pathogenic"
+        },
+        "K29I": {
+            "am_pathogenicity": 0.9941,
+            "am_class": "pathogenic"
+        },
+        "K29L": {
+            "am_pathogenicity": 0.975,
+            "am_class": "pathogenic"
+        },
+        "K29M": {
+            "am_pathogenicity": 0.9863,
+            "am_class": "pathogenic"
+        },
+        "K29N": {
+            "am_pathogenicity": 0.9925,
+            "am_class": "pathogenic"
+        },
+        "K29P": {
+            "am_pathogenicity": 0.9925,
+            "am_class": "pathogenic"
+        },
+        "K29Q": {
+            "am_pathogenicity": 0.884,
+            "am_class": "pathogenic"
+        },
+        "K29R": {
+            "am_pathogenicity": 0.1055,
+            "am_class": "benign"
+        },
+        "K29S": {
+            "am_pathogenicity": 0.9891,
+            "am_class": "pathogenic"
+        },
+        "K29T": {
+            "am_pathogenicity": 0.9795,
+            "am_class": "pathogenic"
+        },
+        "K29V": {
+            "am_pathogenicity": 0.984,
+            "am_class": "pathogenic"
+        },
+        "K29W": {
+            "am_pathogenicity": 0.9946,
+            "am_class": "pathogenic"
+        },
+        "K29Y": {
+            "am_pathogenicity": 0.9913,
+            "am_class": "pathogenic"
+        },
+        "S30A": {
+            "am_pathogenicity": 0.0512,
+            "am_class": "benign"
+        },
+        "S30C": {
+            "am_pathogenicity": 0.2781,
+            "am_class": "benign"
+        },
+        "S30D": {
+            "am_pathogenicity": 0.9767,
+            "am_class": "pathogenic"
+        },
+        "S30E": {
+            "am_pathogenicity": 0.9485,
+            "am_class": "pathogenic"
+        },
+        "S30F": {
+            "am_pathogenicity": 0.6505,
+            "am_class": "pathogenic"
+        },
+        "S30G": {
+            "am_pathogenicity": 0.1997,
+            "am_class": "benign"
+        },
+        "S30H": {
+            "am_pathogenicity": 0.7901,
+            "am_class": "pathogenic"
+        },
+        "S30I": {
+            "am_pathogenicity": 0.7207,
+            "am_class": "pathogenic"
+        },
+        "S30K": {
+            "am_pathogenicity": 0.9813,
+            "am_class": "pathogenic"
+        },
+        "S30L": {
+            "am_pathogenicity": 0.4331,
+            "am_class": "ambiguous"
+        },
+        "S30M": {
+            "am_pathogenicity": 0.4031,
+            "am_class": "ambiguous"
+        },
+        "S30N": {
+            "am_pathogenicity": 0.5472,
+            "am_class": "ambiguous"
+        },
+        "S30P": {
+            "am_pathogenicity": 0.2052,
+            "am_class": "benign"
+        },
+        "S30Q": {
+            "am_pathogenicity": 0.573,
+            "am_class": "pathogenic"
+        },
+        "S30R": {
+            "am_pathogenicity": 0.9741,
+            "am_class": "pathogenic"
+        },
+        "S30T": {
+            "am_pathogenicity": 0.3252,
+            "am_class": "benign"
+        },
+        "S30V": {
+            "am_pathogenicity": 0.5171,
+            "am_class": "ambiguous"
+        },
+        "S30W": {
+            "am_pathogenicity": 0.8893,
+            "am_class": "pathogenic"
+        },
+        "S30Y": {
+            "am_pathogenicity": 0.6894,
+            "am_class": "pathogenic"
+        },
+        "R31A": {
+            "am_pathogenicity": 0.9864,
+            "am_class": "pathogenic"
+        },
+        "R31C": {
+            "am_pathogenicity": 0.9716,
+            "am_class": "pathogenic"
+        },
+        "R31D": {
+            "am_pathogenicity": 0.9905,
+            "am_class": "pathogenic"
+        },
+        "R31E": {
+            "am_pathogenicity": 0.9895,
+            "am_class": "pathogenic"
+        },
+        "R31F": {
+            "am_pathogenicity": 0.9952,
+            "am_class": "pathogenic"
+        },
+        "R31G": {
+            "am_pathogenicity": 0.872,
+            "am_class": "pathogenic"
+        },
+        "R31H": {
+            "am_pathogenicity": 0.8672,
+            "am_class": "pathogenic"
+        },
+        "R31I": {
+            "am_pathogenicity": 0.997,
+            "am_class": "pathogenic"
+        },
+        "R31K": {
+            "am_pathogenicity": 0.3277,
+            "am_class": "benign"
+        },
+        "R31L": {
+            "am_pathogenicity": 0.9852,
+            "am_class": "pathogenic"
+        },
+        "R31M": {
+            "am_pathogenicity": 0.9942,
+            "am_class": "pathogenic"
+        },
+        "R31N": {
+            "am_pathogenicity": 0.9886,
+            "am_class": "pathogenic"
+        },
+        "R31P": {
+            "am_pathogenicity": 0.9946,
+            "am_class": "pathogenic"
+        },
+        "R31Q": {
+            "am_pathogenicity": 0.8845,
+            "am_class": "pathogenic"
+        },
+        "R31S": {
+            "am_pathogenicity": 0.9875,
+            "am_class": "pathogenic"
+        },
+        "R31T": {
+            "am_pathogenicity": 0.9868,
+            "am_class": "pathogenic"
+        },
+        "R31V": {
+            "am_pathogenicity": 0.9932,
+            "am_class": "pathogenic"
+        },
+        "R31W": {
+            "am_pathogenicity": 0.9743,
+            "am_class": "pathogenic"
+        },
+        "R31Y": {
+            "am_pathogenicity": 0.9859,
+            "am_class": "pathogenic"
+        },
+        "D32A": {
+            "am_pathogenicity": 0.9873,
+            "am_class": "pathogenic"
+        },
+        "D32C": {
+            "am_pathogenicity": 0.9979,
+            "am_class": "pathogenic"
+        },
+        "D32E": {
+            "am_pathogenicity": 0.7384,
+            "am_class": "pathogenic"
+        },
+        "D32F": {
+            "am_pathogenicity": 0.9983,
+            "am_class": "pathogenic"
+        },
+        "D32G": {
+            "am_pathogenicity": 0.9965,
+            "am_class": "pathogenic"
+        },
+        "D32H": {
+            "am_pathogenicity": 0.9974,
+            "am_class": "pathogenic"
+        },
+        "D32I": {
+            "am_pathogenicity": 0.9987,
+            "am_class": "pathogenic"
+        },
+        "D32K": {
+            "am_pathogenicity": 0.999,
+            "am_class": "pathogenic"
+        },
+        "D32L": {
+            "am_pathogenicity": 0.997,
+            "am_class": "pathogenic"
+        },
+        "D32M": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "D32N": {
+            "am_pathogenicity": 0.9905,
+            "am_class": "pathogenic"
+        },
+        "D32P": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "D32Q": {
+            "am_pathogenicity": 0.9935,
+            "am_class": "pathogenic"
+        },
+        "D32R": {
+            "am_pathogenicity": 0.9986,
+            "am_class": "pathogenic"
+        },
+        "D32S": {
+            "am_pathogenicity": 0.9903,
+            "am_class": "pathogenic"
+        },
+        "D32T": {
+            "am_pathogenicity": 0.9975,
+            "am_class": "pathogenic"
+        },
+        "D32V": {
+            "am_pathogenicity": 0.9965,
+            "am_class": "pathogenic"
+        },
+        "D32W": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "D32Y": {
+            "am_pathogenicity": 0.9907,
+            "am_class": "pathogenic"
+        },
+        "P33A": {
+            "am_pathogenicity": 0.4828,
+            "am_class": "ambiguous"
+        },
+        "P33C": {
+            "am_pathogenicity": 0.9765,
+            "am_class": "pathogenic"
+        },
+        "P33D": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "P33E": {
+            "am_pathogenicity": 0.9978,
+            "am_class": "pathogenic"
+        },
+        "P33F": {
+            "am_pathogenicity": 0.9956,
+            "am_class": "pathogenic"
+        },
+        "P33G": {
+            "am_pathogenicity": 0.9731,
+            "am_class": "pathogenic"
+        },
+        "P33H": {
+            "am_pathogenicity": 0.991,
+            "am_class": "pathogenic"
+        },
+        "P33I": {
+            "am_pathogenicity": 0.9852,
+            "am_class": "pathogenic"
+        },
+        "P33K": {
+            "am_pathogenicity": 0.9979,
+            "am_class": "pathogenic"
+        },
+        "P33L": {
+            "am_pathogenicity": 0.9577,
+            "am_class": "pathogenic"
+        },
+        "P33M": {
+            "am_pathogenicity": 0.9896,
+            "am_class": "pathogenic"
+        },
+        "P33N": {
+            "am_pathogenicity": 0.9898,
+            "am_class": "pathogenic"
+        },
+        "P33Q": {
+            "am_pathogenicity": 0.9874,
+            "am_class": "pathogenic"
+        },
+        "P33R": {
+            "am_pathogenicity": 0.9908,
+            "am_class": "pathogenic"
+        },
+        "P33S": {
+            "am_pathogenicity": 0.94,
+            "am_class": "pathogenic"
+        },
+        "P33T": {
+            "am_pathogenicity": 0.9595,
+            "am_class": "pathogenic"
+        },
+        "P33V": {
+            "am_pathogenicity": 0.9335,
+            "am_class": "pathogenic"
+        },
+        "P33W": {
+            "am_pathogenicity": 0.9984,
+            "am_class": "pathogenic"
+        },
+        "P33Y": {
+            "am_pathogenicity": 0.9968,
+            "am_class": "pathogenic"
+        },
+        "I34A": {
+            "am_pathogenicity": 0.9984,
+            "am_class": "pathogenic"
+        },
+        "I34C": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "I34D": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "I34E": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "I34F": {
+            "am_pathogenicity": 0.997,
+            "am_class": "pathogenic"
+        },
+        "I34G": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "I34H": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "I34K": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "I34L": {
+            "am_pathogenicity": 0.9208,
+            "am_class": "pathogenic"
+        },
+        "I34M": {
+            "am_pathogenicity": 0.9856,
+            "am_class": "pathogenic"
+        },
+        "I34N": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "I34P": {
+            "am_pathogenicity": 0.9978,
+            "am_class": "pathogenic"
+        },
+        "I34Q": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "I34R": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "I34S": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "I34T": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "I34V": {
+            "am_pathogenicity": 0.449,
+            "am_class": "ambiguous"
+        },
+        "I34W": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "I34Y": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "R35A": {
+            "am_pathogenicity": 0.9949,
+            "am_class": "pathogenic"
+        },
+        "R35C": {
+            "am_pathogenicity": 0.994,
+            "am_class": "pathogenic"
+        },
+        "R35D": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "R35E": {
+            "am_pathogenicity": 0.995,
+            "am_class": "pathogenic"
+        },
+        "R35F": {
+            "am_pathogenicity": 0.9987,
+            "am_class": "pathogenic"
+        },
+        "R35G": {
+            "am_pathogenicity": 0.996,
+            "am_class": "pathogenic"
+        },
+        "R35H": {
+            "am_pathogenicity": 0.9891,
+            "am_class": "pathogenic"
+        },
+        "R35I": {
+            "am_pathogenicity": 0.9938,
+            "am_class": "pathogenic"
+        },
+        "R35K": {
+            "am_pathogenicity": 0.8636,
+            "am_class": "pathogenic"
+        },
+        "R35L": {
+            "am_pathogenicity": 0.9909,
+            "am_class": "pathogenic"
+        },
+        "R35M": {
+            "am_pathogenicity": 0.9983,
+            "am_class": "pathogenic"
+        },
+        "R35N": {
+            "am_pathogenicity": 0.9989,
+            "am_class": "pathogenic"
+        },
+        "R35P": {
+            "am_pathogenicity": 0.9986,
+            "am_class": "pathogenic"
+        },
+        "R35Q": {
+            "am_pathogenicity": 0.9525,
+            "am_class": "pathogenic"
+        },
+        "R35S": {
+            "am_pathogenicity": 0.9981,
+            "am_class": "pathogenic"
+        },
+        "R35T": {
+            "am_pathogenicity": 0.9966,
+            "am_class": "pathogenic"
+        },
+        "R35V": {
+            "am_pathogenicity": 0.993,
+            "am_class": "pathogenic"
+        },
+        "R35W": {
+            "am_pathogenicity": 0.9953,
+            "am_class": "pathogenic"
+        },
+        "R35Y": {
+            "am_pathogenicity": 0.9976,
+            "am_class": "pathogenic"
+        },
+        "C36A": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "C36D": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "C36E": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "C36F": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "C36G": {
+            "am_pathogenicity": 0.9987,
+            "am_class": "pathogenic"
+        },
+        "C36H": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "C36I": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "C36K": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "C36L": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "C36M": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "C36N": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "C36P": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "C36Q": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "C36R": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "C36S": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "C36T": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "C36V": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "C36W": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "C36Y": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "R37A": {
+            "am_pathogenicity": 0.9918,
+            "am_class": "pathogenic"
+        },
+        "R37C": {
+            "am_pathogenicity": 0.982,
+            "am_class": "pathogenic"
+        },
+        "R37D": {
+            "am_pathogenicity": 0.9972,
+            "am_class": "pathogenic"
+        },
+        "R37E": {
+            "am_pathogenicity": 0.9856,
+            "am_class": "pathogenic"
+        },
+        "R37F": {
+            "am_pathogenicity": 0.9976,
+            "am_class": "pathogenic"
+        },
+        "R37G": {
+            "am_pathogenicity": 0.9833,
+            "am_class": "pathogenic"
+        },
+        "R37H": {
+            "am_pathogenicity": 0.9397,
+            "am_class": "pathogenic"
+        },
+        "R37I": {
+            "am_pathogenicity": 0.9923,
+            "am_class": "pathogenic"
+        },
+        "R37K": {
+            "am_pathogenicity": 0.5862,
+            "am_class": "pathogenic"
+        },
+        "R37L": {
+            "am_pathogenicity": 0.977,
+            "am_class": "pathogenic"
+        },
+        "R37M": {
+            "am_pathogenicity": 0.9934,
+            "am_class": "pathogenic"
+        },
+        "R37N": {
+            "am_pathogenicity": 0.9964,
+            "am_class": "pathogenic"
+        },
+        "R37P": {
+            "am_pathogenicity": 0.997,
+            "am_class": "pathogenic"
+        },
+        "R37Q": {
+            "am_pathogenicity": 0.8529,
+            "am_class": "pathogenic"
+        },
+        "R37S": {
+            "am_pathogenicity": 0.9957,
+            "am_class": "pathogenic"
+        },
+        "R37T": {
+            "am_pathogenicity": 0.9863,
+            "am_class": "pathogenic"
+        },
+        "R37V": {
+            "am_pathogenicity": 0.9878,
+            "am_class": "pathogenic"
+        },
+        "R37W": {
+            "am_pathogenicity": 0.9828,
+            "am_class": "pathogenic"
+        },
+        "R37Y": {
+            "am_pathogenicity": 0.9938,
+            "am_class": "pathogenic"
+        },
+        "E38A": {
+            "am_pathogenicity": 0.9033,
+            "am_class": "pathogenic"
+        },
+        "E38C": {
+            "am_pathogenicity": 0.9909,
+            "am_class": "pathogenic"
+        },
+        "E38D": {
+            "am_pathogenicity": 0.3844,
+            "am_class": "ambiguous"
+        },
+        "E38F": {
+            "am_pathogenicity": 0.9876,
+            "am_class": "pathogenic"
+        },
+        "E38G": {
+            "am_pathogenicity": 0.9243,
+            "am_class": "pathogenic"
+        },
+        "E38H": {
+            "am_pathogenicity": 0.9682,
+            "am_class": "pathogenic"
+        },
+        "E38I": {
+            "am_pathogenicity": 0.9751,
+            "am_class": "pathogenic"
+        },
+        "E38K": {
+            "am_pathogenicity": 0.9773,
+            "am_class": "pathogenic"
+        },
+        "E38L": {
+            "am_pathogenicity": 0.9794,
+            "am_class": "pathogenic"
+        },
+        "E38M": {
+            "am_pathogenicity": 0.982,
+            "am_class": "pathogenic"
+        },
+        "E38N": {
+            "am_pathogenicity": 0.8637,
+            "am_class": "pathogenic"
+        },
+        "E38P": {
+            "am_pathogenicity": 0.9972,
+            "am_class": "pathogenic"
+        },
+        "E38Q": {
+            "am_pathogenicity": 0.8366,
+            "am_class": "pathogenic"
+        },
+        "E38R": {
+            "am_pathogenicity": 0.9734,
+            "am_class": "pathogenic"
+        },
+        "E38S": {
+            "am_pathogenicity": 0.8634,
+            "am_class": "pathogenic"
+        },
+        "E38T": {
+            "am_pathogenicity": 0.9395,
+            "am_class": "pathogenic"
+        },
+        "E38V": {
+            "am_pathogenicity": 0.9299,
+            "am_class": "pathogenic"
+        },
+        "E38W": {
+            "am_pathogenicity": 0.9968,
+            "am_class": "pathogenic"
+        },
+        "E38Y": {
+            "am_pathogenicity": 0.9758,
+            "am_class": "pathogenic"
+        },
+        "C39A": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "C39D": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "C39E": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "C39F": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "C39G": {
+            "am_pathogenicity": 0.9963,
+            "am_class": "pathogenic"
+        },
+        "C39H": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "C39I": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "C39K": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "C39L": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "C39M": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "C39N": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "C39P": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "C39Q": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "C39R": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "C39S": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "C39T": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "C39V": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "C39W": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "C39Y": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "G40A": {
+            "am_pathogenicity": 0.9921,
+            "am_class": "pathogenic"
+        },
+        "G40C": {
+            "am_pathogenicity": 0.9978,
+            "am_class": "pathogenic"
+        },
+        "G40D": {
+            "am_pathogenicity": 0.999,
+            "am_class": "pathogenic"
+        },
+        "G40E": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "G40F": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "G40H": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "G40I": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "G40K": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "G40L": {
+            "am_pathogenicity": 0.9993,
+            "am_class": "pathogenic"
+        },
+        "G40M": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "G40N": {
+            "am_pathogenicity": 0.9969,
+            "am_class": "pathogenic"
+        },
+        "G40P": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "G40Q": {
+            "am_pathogenicity": 0.9989,
+            "am_class": "pathogenic"
+        },
+        "G40R": {
+            "am_pathogenicity": 0.9987,
+            "am_class": "pathogenic"
+        },
+        "G40S": {
+            "am_pathogenicity": 0.9823,
+            "am_class": "pathogenic"
+        },
+        "G40T": {
+            "am_pathogenicity": 0.9962,
+            "am_class": "pathogenic"
+        },
+        "G40V": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "G40W": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "G40Y": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "Y41A": {
+            "am_pathogenicity": 0.9969,
+            "am_class": "pathogenic"
+        },
+        "Y41C": {
+            "am_pathogenicity": 0.8448,
+            "am_class": "pathogenic"
+        },
+        "Y41D": {
+            "am_pathogenicity": 0.998,
+            "am_class": "pathogenic"
+        },
+        "Y41E": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "Y41F": {
+            "am_pathogenicity": 0.6421,
+            "am_class": "pathogenic"
+        },
+        "Y41G": {
+            "am_pathogenicity": 0.9666,
+            "am_class": "pathogenic"
+        },
+        "Y41H": {
+            "am_pathogenicity": 0.9398,
+            "am_class": "pathogenic"
+        },
+        "Y41I": {
+            "am_pathogenicity": 0.9987,
+            "am_class": "pathogenic"
+        },
+        "Y41K": {
+            "am_pathogenicity": 0.9987,
+            "am_class": "pathogenic"
+        },
+        "Y41L": {
+            "am_pathogenicity": 0.9934,
+            "am_class": "pathogenic"
+        },
+        "Y41M": {
+            "am_pathogenicity": 0.9977,
+            "am_class": "pathogenic"
+        },
+        "Y41N": {
+            "am_pathogenicity": 0.9772,
+            "am_class": "pathogenic"
+        },
+        "Y41P": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "Y41Q": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "Y41R": {
+            "am_pathogenicity": 0.997,
+            "am_class": "pathogenic"
+        },
+        "Y41S": {
+            "am_pathogenicity": 0.986,
+            "am_class": "pathogenic"
+        },
+        "Y41T": {
+            "am_pathogenicity": 0.9982,
+            "am_class": "pathogenic"
+        },
+        "Y41V": {
+            "am_pathogenicity": 0.9965,
+            "am_class": "pathogenic"
+        },
+        "Y41W": {
+            "am_pathogenicity": 0.8849,
+            "am_class": "pathogenic"
+        },
+        "R42A": {
+            "am_pathogenicity": 0.9993,
+            "am_class": "pathogenic"
+        },
+        "R42C": {
+            "am_pathogenicity": 0.9993,
+            "am_class": "pathogenic"
+        },
+        "R42D": {
+            "am_pathogenicity": 0.9993,
+            "am_class": "pathogenic"
+        },
+        "R42E": {
+            "am_pathogenicity": 0.9985,
+            "am_class": "pathogenic"
+        },
+        "R42F": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "R42G": {
+            "am_pathogenicity": 0.9987,
+            "am_class": "pathogenic"
+        },
+        "R42H": {
+            "am_pathogenicity": 0.9974,
+            "am_class": "pathogenic"
+        },
+        "R42I": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "R42K": {
+            "am_pathogenicity": 0.9808,
+            "am_class": "pathogenic"
+        },
+        "R42L": {
+            "am_pathogenicity": 0.9983,
+            "am_class": "pathogenic"
+        },
+        "R42M": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "R42N": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "R42P": {
+            "am_pathogenicity": 0.9986,
+            "am_class": "pathogenic"
+        },
+        "R42Q": {
+            "am_pathogenicity": 0.9976,
+            "am_class": "pathogenic"
+        },
+        "R42S": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "R42T": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "R42V": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "R42W": {
+            "am_pathogenicity": 0.9989,
+            "am_class": "pathogenic"
+        },
+        "R42Y": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "I43A": {
+            "am_pathogenicity": 0.9993,
+            "am_class": "pathogenic"
+        },
+        "I43C": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "I43D": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "I43E": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "I43F": {
+            "am_pathogenicity": 0.9983,
+            "am_class": "pathogenic"
+        },
+        "I43G": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "I43H": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "I43K": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "I43L": {
+            "am_pathogenicity": 0.993,
+            "am_class": "pathogenic"
+        },
+        "I43M": {
+            "am_pathogenicity": 0.9935,
+            "am_class": "pathogenic"
+        },
+        "I43N": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "I43P": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "I43Q": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "I43R": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "I43S": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "I43T": {
+            "am_pathogenicity": 0.9993,
+            "am_class": "pathogenic"
+        },
+        "I43V": {
+            "am_pathogenicity": 0.7598,
+            "am_class": "pathogenic"
+        },
+        "I43W": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "I43Y": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "M44A": {
+            "am_pathogenicity": 0.9939,
+            "am_class": "pathogenic"
+        },
+        "M44C": {
+            "am_pathogenicity": 0.9641,
+            "am_class": "pathogenic"
+        },
+        "M44D": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "M44E": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "M44F": {
+            "am_pathogenicity": 0.9362,
+            "am_class": "pathogenic"
+        },
+        "M44G": {
+            "am_pathogenicity": 0.998,
+            "am_class": "pathogenic"
+        },
+        "M44H": {
+            "am_pathogenicity": 0.9983,
+            "am_class": "pathogenic"
+        },
+        "M44I": {
+            "am_pathogenicity": 0.9937,
+            "am_class": "pathogenic"
+        },
+        "M44K": {
+            "am_pathogenicity": 0.9982,
+            "am_class": "pathogenic"
+        },
+        "M44L": {
+            "am_pathogenicity": 0.3783,
+            "am_class": "ambiguous"
+        },
+        "M44N": {
+            "am_pathogenicity": 0.9982,
+            "am_class": "pathogenic"
+        },
+        "M44P": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "M44Q": {
+            "am_pathogenicity": 0.9915,
+            "am_class": "pathogenic"
+        },
+        "M44R": {
+            "am_pathogenicity": 0.998,
+            "am_class": "pathogenic"
+        },
+        "M44S": {
+            "am_pathogenicity": 0.9971,
+            "am_class": "pathogenic"
+        },
+        "M44T": {
+            "am_pathogenicity": 0.9982,
+            "am_class": "pathogenic"
+        },
+        "M44V": {
+            "am_pathogenicity": 0.9274,
+            "am_class": "pathogenic"
+        },
+        "M44W": {
+            "am_pathogenicity": 0.9979,
+            "am_class": "pathogenic"
+        },
+        "M44Y": {
+            "am_pathogenicity": 0.9936,
+            "am_class": "pathogenic"
+        },
+        "Y45A": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "Y45C": {
+            "am_pathogenicity": 0.9985,
+            "am_class": "pathogenic"
+        },
+        "Y45D": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "Y45E": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "Y45F": {
+            "am_pathogenicity": 0.7469,
+            "am_class": "pathogenic"
+        },
+        "Y45G": {
+            "am_pathogenicity": 0.9952,
+            "am_class": "pathogenic"
+        },
+        "Y45H": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "Y45I": {
+            "am_pathogenicity": 0.9985,
+            "am_class": "pathogenic"
+        },
+        "Y45K": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "Y45L": {
+            "am_pathogenicity": 0.9866,
+            "am_class": "pathogenic"
+        },
+        "Y45M": {
+            "am_pathogenicity": 0.9983,
+            "am_class": "pathogenic"
+        },
+        "Y45N": {
+            "am_pathogenicity": 0.9982,
+            "am_class": "pathogenic"
+        },
+        "Y45P": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "Y45Q": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "Y45R": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "Y45S": {
+            "am_pathogenicity": 0.9988,
+            "am_class": "pathogenic"
+        },
+        "Y45T": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "Y45V": {
+            "am_pathogenicity": 0.996,
+            "am_class": "pathogenic"
+        },
+        "Y45W": {
+            "am_pathogenicity": 0.945,
+            "am_class": "pathogenic"
+        },
+        "K46A": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "K46C": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "K46D": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "K46E": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "K46F": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "K46G": {
+            "am_pathogenicity": 0.999,
+            "am_class": "pathogenic"
+        },
+        "K46H": {
+            "am_pathogenicity": 0.9975,
+            "am_class": "pathogenic"
+        },
+        "K46I": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "K46L": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "K46M": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "K46N": {
+            "am_pathogenicity": 1.0,
+            "am_class": "pathogenic"
+        },
+        "K46P": {
+            "am_pathogenicity": 0.9982,
+            "am_class": "pathogenic"
+        },
+        "K46Q": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "K46R": {
+            "am_pathogenicity": 0.8993,
+            "am_class": "pathogenic"
+        },
+        "K46S": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "K46T": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "K46V": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "K46W": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "K46Y": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "K47A": {
+            "am_pathogenicity": 0.9943,
+            "am_class": "pathogenic"
+        },
+        "K47C": {
+            "am_pathogenicity": 0.9972,
+            "am_class": "pathogenic"
+        },
+        "K47D": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "K47E": {
+            "am_pathogenicity": 0.9956,
+            "am_class": "pathogenic"
+        },
+        "K47F": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "K47G": {
+            "am_pathogenicity": 0.9955,
+            "am_class": "pathogenic"
+        },
+        "K47H": {
+            "am_pathogenicity": 0.9856,
+            "am_class": "pathogenic"
+        },
+        "K47I": {
+            "am_pathogenicity": 0.9971,
+            "am_class": "pathogenic"
+        },
+        "K47L": {
+            "am_pathogenicity": 0.9888,
+            "am_class": "pathogenic"
+        },
+        "K47M": {
+            "am_pathogenicity": 0.9894,
+            "am_class": "pathogenic"
+        },
+        "K47N": {
+            "am_pathogenicity": 0.9988,
+            "am_class": "pathogenic"
+        },
+        "K47P": {
+            "am_pathogenicity": 0.9952,
+            "am_class": "pathogenic"
+        },
+        "K47Q": {
+            "am_pathogenicity": 0.9506,
+            "am_class": "pathogenic"
+        },
+        "K47R": {
+            "am_pathogenicity": 0.4298,
+            "am_class": "ambiguous"
+        },
+        "K47S": {
+            "am_pathogenicity": 0.9981,
+            "am_class": "pathogenic"
+        },
+        "K47T": {
+            "am_pathogenicity": 0.995,
+            "am_class": "pathogenic"
+        },
+        "K47V": {
+            "am_pathogenicity": 0.9939,
+            "am_class": "pathogenic"
+        },
+        "K47W": {
+            "am_pathogenicity": 0.9986,
+            "am_class": "pathogenic"
+        },
+        "K47Y": {
+            "am_pathogenicity": 0.9954,
+            "am_class": "pathogenic"
+        },
+        "R48A": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "R48C": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "R48D": {
+            "am_pathogenicity": 0.998,
+            "am_class": "pathogenic"
+        },
+        "R48E": {
+            "am_pathogenicity": 0.996,
+            "am_class": "pathogenic"
+        },
+        "R48F": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "R48G": {
+            "am_pathogenicity": 0.9976,
+            "am_class": "pathogenic"
+        },
+        "R48H": {
+            "am_pathogenicity": 0.9981,
+            "am_class": "pathogenic"
+        },
+        "R48I": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "R48K": {
+            "am_pathogenicity": 0.9908,
+            "am_class": "pathogenic"
+        },
+        "R48L": {
+            "am_pathogenicity": 0.9984,
+            "am_class": "pathogenic"
+        },
+        "R48M": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "R48N": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "R48P": {
+            "am_pathogenicity": 0.9973,
+            "am_class": "pathogenic"
+        },
+        "R48Q": {
+            "am_pathogenicity": 0.998,
+            "am_class": "pathogenic"
+        },
+        "R48S": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "R48T": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "R48V": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "R48W": {
+            "am_pathogenicity": 0.999,
+            "am_class": "pathogenic"
+        },
+        "R48Y": {
+            "am_pathogenicity": 0.9983,
+            "am_class": "pathogenic"
+        },
+        "T49A": {
+            "am_pathogenicity": 0.9759,
+            "am_class": "pathogenic"
+        },
+        "T49C": {
+            "am_pathogenicity": 0.9915,
+            "am_class": "pathogenic"
+        },
+        "T49D": {
+            "am_pathogenicity": 0.9975,
+            "am_class": "pathogenic"
+        },
+        "T49E": {
+            "am_pathogenicity": 0.9953,
+            "am_class": "pathogenic"
+        },
+        "T49F": {
+            "am_pathogenicity": 0.9958,
+            "am_class": "pathogenic"
+        },
+        "T49G": {
+            "am_pathogenicity": 0.9701,
+            "am_class": "pathogenic"
+        },
+        "T49H": {
+            "am_pathogenicity": 0.9963,
+            "am_class": "pathogenic"
+        },
+        "T49I": {
+            "am_pathogenicity": 0.9918,
+            "am_class": "pathogenic"
+        },
+        "T49K": {
+            "am_pathogenicity": 0.994,
+            "am_class": "pathogenic"
+        },
+        "T49L": {
+            "am_pathogenicity": 0.9791,
+            "am_class": "pathogenic"
+        },
+        "T49M": {
+            "am_pathogenicity": 0.9818,
+            "am_class": "pathogenic"
+        },
+        "T49N": {
+            "am_pathogenicity": 0.9852,
+            "am_class": "pathogenic"
+        },
+        "T49P": {
+            "am_pathogenicity": 0.9824,
+            "am_class": "pathogenic"
+        },
+        "T49Q": {
+            "am_pathogenicity": 0.9877,
+            "am_class": "pathogenic"
+        },
+        "T49R": {
+            "am_pathogenicity": 0.9912,
+            "am_class": "pathogenic"
+        },
+        "T49S": {
+            "am_pathogenicity": 0.9652,
+            "am_class": "pathogenic"
+        },
+        "T49V": {
+            "am_pathogenicity": 0.9728,
+            "am_class": "pathogenic"
+        },
+        "T49W": {
+            "am_pathogenicity": 0.9982,
+            "am_class": "pathogenic"
+        },
+        "T49Y": {
+            "am_pathogenicity": 0.9979,
+            "am_class": "pathogenic"
+        },
+        "K50A": {
+            "am_pathogenicity": 0.9298,
+            "am_class": "pathogenic"
+        },
+        "K50C": {
+            "am_pathogenicity": 0.9625,
+            "am_class": "pathogenic"
+        },
+        "K50D": {
+            "am_pathogenicity": 0.9264,
+            "am_class": "pathogenic"
+        },
+        "K50E": {
+            "am_pathogenicity": 0.9048,
+            "am_class": "pathogenic"
+        },
+        "K50F": {
+            "am_pathogenicity": 0.9957,
+            "am_class": "pathogenic"
+        },
+        "K50G": {
+            "am_pathogenicity": 0.8986,
+            "am_class": "pathogenic"
+        },
+        "K50H": {
+            "am_pathogenicity": 0.7282,
+            "am_class": "pathogenic"
+        },
+        "K50I": {
+            "am_pathogenicity": 0.9875,
+            "am_class": "pathogenic"
+        },
+        "K50L": {
+            "am_pathogenicity": 0.9603,
+            "am_class": "pathogenic"
+        },
+        "K50M": {
+            "am_pathogenicity": 0.9634,
+            "am_class": "pathogenic"
+        },
+        "K50N": {
+            "am_pathogenicity": 0.9258,
+            "am_class": "pathogenic"
+        },
+        "K50P": {
+            "am_pathogenicity": 0.9647,
+            "am_class": "pathogenic"
+        },
+        "K50Q": {
+            "am_pathogenicity": 0.5975,
+            "am_class": "pathogenic"
+        },
+        "K50R": {
+            "am_pathogenicity": 0.108,
+            "am_class": "benign"
+        },
+        "K50S": {
+            "am_pathogenicity": 0.8836,
+            "am_class": "pathogenic"
+        },
+        "K50T": {
+            "am_pathogenicity": 0.7348,
+            "am_class": "pathogenic"
+        },
+        "K50V": {
+            "am_pathogenicity": 0.9495,
+            "am_class": "pathogenic"
+        },
+        "K50W": {
+            "am_pathogenicity": 0.9867,
+            "am_class": "pathogenic"
+        },
+        "K50Y": {
+            "am_pathogenicity": 0.9781,
+            "am_class": "pathogenic"
+        },
+        "R51A": {
+            "am_pathogenicity": 0.9906,
+            "am_class": "pathogenic"
+        },
+        "R51C": {
+            "am_pathogenicity": 0.9885,
+            "am_class": "pathogenic"
+        },
+        "R51D": {
+            "am_pathogenicity": 0.9795,
+            "am_class": "pathogenic"
+        },
+        "R51E": {
+            "am_pathogenicity": 0.9627,
+            "am_class": "pathogenic"
+        },
+        "R51F": {
+            "am_pathogenicity": 0.9946,
+            "am_class": "pathogenic"
+        },
+        "R51G": {
+            "am_pathogenicity": 0.9766,
+            "am_class": "pathogenic"
+        },
+        "R51H": {
+            "am_pathogenicity": 0.9277,
+            "am_class": "pathogenic"
+        },
+        "R51I": {
+            "am_pathogenicity": 0.9914,
+            "am_class": "pathogenic"
+        },
+        "R51K": {
+            "am_pathogenicity": 0.7884,
+            "am_class": "pathogenic"
+        },
+        "R51L": {
+            "am_pathogenicity": 0.9789,
+            "am_class": "pathogenic"
+        },
+        "R51M": {
+            "am_pathogenicity": 0.9946,
+            "am_class": "pathogenic"
+        },
+        "R51N": {
+            "am_pathogenicity": 0.9824,
+            "am_class": "pathogenic"
+        },
+        "R51P": {
+            "am_pathogenicity": 0.9971,
+            "am_class": "pathogenic"
+        },
+        "R51Q": {
+            "am_pathogenicity": 0.9179,
+            "am_class": "pathogenic"
+        },
+        "R51S": {
+            "am_pathogenicity": 0.993,
+            "am_class": "pathogenic"
+        },
+        "R51T": {
+            "am_pathogenicity": 0.99,
+            "am_class": "pathogenic"
+        },
+        "R51V": {
+            "am_pathogenicity": 0.9849,
+            "am_class": "pathogenic"
+        },
+        "R51W": {
+            "am_pathogenicity": 0.9859,
+            "am_class": "pathogenic"
+        },
+        "R51Y": {
+            "am_pathogenicity": 0.9778,
+            "am_class": "pathogenic"
+        },
+        "L52A": {
+            "am_pathogenicity": 0.947,
+            "am_class": "pathogenic"
+        },
+        "L52C": {
+            "am_pathogenicity": 0.9553,
+            "am_class": "pathogenic"
+        },
+        "L52D": {
+            "am_pathogenicity": 0.9964,
+            "am_class": "pathogenic"
+        },
+        "L52E": {
+            "am_pathogenicity": 0.9875,
+            "am_class": "pathogenic"
+        },
+        "L52F": {
+            "am_pathogenicity": 0.9584,
+            "am_class": "pathogenic"
+        },
+        "L52G": {
+            "am_pathogenicity": 0.9785,
+            "am_class": "pathogenic"
+        },
+        "L52H": {
+            "am_pathogenicity": 0.9946,
+            "am_class": "pathogenic"
+        },
+        "L52I": {
+            "am_pathogenicity": 0.7967,
+            "am_class": "pathogenic"
+        },
+        "L52K": {
+            "am_pathogenicity": 0.9756,
+            "am_class": "pathogenic"
+        },
+        "L52M": {
+            "am_pathogenicity": 0.3824,
+            "am_class": "ambiguous"
+        },
+        "L52N": {
+            "am_pathogenicity": 0.9905,
+            "am_class": "pathogenic"
+        },
+        "L52P": {
+            "am_pathogenicity": 0.9894,
+            "am_class": "pathogenic"
+        },
+        "L52Q": {
+            "am_pathogenicity": 0.9836,
+            "am_class": "pathogenic"
+        },
+        "L52R": {
+            "am_pathogenicity": 0.9699,
+            "am_class": "pathogenic"
+        },
+        "L52S": {
+            "am_pathogenicity": 0.993,
+            "am_class": "pathogenic"
+        },
+        "L52T": {
+            "am_pathogenicity": 0.9784,
+            "am_class": "pathogenic"
+        },
+        "L52V": {
+            "am_pathogenicity": 0.7258,
+            "am_class": "pathogenic"
+        },
+        "L52W": {
+            "am_pathogenicity": 0.9821,
+            "am_class": "pathogenic"
+        },
+        "L52Y": {
+            "am_pathogenicity": 0.9722,
+            "am_class": "pathogenic"
+        },
+        "V53A": {
+            "am_pathogenicity": 0.9866,
+            "am_class": "pathogenic"
+        },
+        "V53C": {
+            "am_pathogenicity": 0.9849,
+            "am_class": "pathogenic"
+        },
+        "V53D": {
+            "am_pathogenicity": 0.9987,
+            "am_class": "pathogenic"
+        },
+        "V53E": {
+            "am_pathogenicity": 0.996,
+            "am_class": "pathogenic"
+        },
+        "V53F": {
+            "am_pathogenicity": 0.9814,
+            "am_class": "pathogenic"
+        },
+        "V53G": {
+            "am_pathogenicity": 0.9892,
+            "am_class": "pathogenic"
+        },
+        "V53H": {
+            "am_pathogenicity": 0.9982,
+            "am_class": "pathogenic"
+        },
+        "V53I": {
+            "am_pathogenicity": 0.3041,
+            "am_class": "benign"
+        },
+        "V53K": {
+            "am_pathogenicity": 0.9972,
+            "am_class": "pathogenic"
+        },
+        "V53L": {
+            "am_pathogenicity": 0.9342,
+            "am_class": "pathogenic"
+        },
+        "V53M": {
+            "am_pathogenicity": 0.9531,
+            "am_class": "pathogenic"
+        },
+        "V53N": {
+            "am_pathogenicity": 0.994,
+            "am_class": "pathogenic"
+        },
+        "V53P": {
+            "am_pathogenicity": 0.9964,
+            "am_class": "pathogenic"
+        },
+        "V53Q": {
+            "am_pathogenicity": 0.9914,
+            "am_class": "pathogenic"
+        },
+        "V53R": {
+            "am_pathogenicity": 0.9909,
+            "am_class": "pathogenic"
+        },
+        "V53S": {
+            "am_pathogenicity": 0.9911,
+            "am_class": "pathogenic"
+        },
+        "V53T": {
+            "am_pathogenicity": 0.9803,
+            "am_class": "pathogenic"
+        },
+        "V53W": {
+            "am_pathogenicity": 0.9986,
+            "am_class": "pathogenic"
+        },
+        "V53Y": {
+            "am_pathogenicity": 0.9957,
+            "am_class": "pathogenic"
+        },
+        "V54A": {
+            "am_pathogenicity": 0.9837,
+            "am_class": "pathogenic"
+        },
+        "V54C": {
+            "am_pathogenicity": 0.9911,
+            "am_class": "pathogenic"
+        },
+        "V54D": {
+            "am_pathogenicity": 0.9978,
+            "am_class": "pathogenic"
+        },
+        "V54E": {
+            "am_pathogenicity": 0.9937,
+            "am_class": "pathogenic"
+        },
+        "V54F": {
+            "am_pathogenicity": 0.9823,
+            "am_class": "pathogenic"
+        },
+        "V54G": {
+            "am_pathogenicity": 0.9739,
+            "am_class": "pathogenic"
+        },
+        "V54H": {
+            "am_pathogenicity": 0.9988,
+            "am_class": "pathogenic"
+        },
+        "V54I": {
+            "am_pathogenicity": 0.677,
+            "am_class": "pathogenic"
+        },
+        "V54K": {
+            "am_pathogenicity": 0.9978,
+            "am_class": "pathogenic"
+        },
+        "V54L": {
+            "am_pathogenicity": 0.9905,
+            "am_class": "pathogenic"
+        },
+        "V54M": {
+            "am_pathogenicity": 0.9919,
+            "am_class": "pathogenic"
+        },
+        "V54N": {
+            "am_pathogenicity": 0.9897,
+            "am_class": "pathogenic"
+        },
+        "V54P": {
+            "am_pathogenicity": 0.9956,
+            "am_class": "pathogenic"
+        },
+        "V54Q": {
+            "am_pathogenicity": 0.9703,
+            "am_class": "pathogenic"
+        },
+        "V54R": {
+            "am_pathogenicity": 0.9909,
+            "am_class": "pathogenic"
+        },
+        "V54S": {
+            "am_pathogenicity": 0.9789,
+            "am_class": "pathogenic"
+        },
+        "V54T": {
+            "am_pathogenicity": 0.9728,
+            "am_class": "pathogenic"
+        },
+        "V54W": {
+            "am_pathogenicity": 0.9993,
+            "am_class": "pathogenic"
+        },
+        "V54Y": {
+            "am_pathogenicity": 0.9943,
+            "am_class": "pathogenic"
+        },
+        "F55A": {
+            "am_pathogenicity": 0.999,
+            "am_class": "pathogenic"
+        },
+        "F55C": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "F55D": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "F55E": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "F55G": {
+            "am_pathogenicity": 0.9978,
+            "am_class": "pathogenic"
+        },
+        "F55H": {
+            "am_pathogenicity": 0.9981,
+            "am_class": "pathogenic"
+        },
+        "F55I": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "F55K": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "F55L": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "F55M": {
+            "am_pathogenicity": 0.9984,
+            "am_class": "pathogenic"
+        },
+        "F55N": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "F55P": {
+            "am_pathogenicity": 0.9999,
+            "am_class": "pathogenic"
+        },
+        "F55Q": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "F55R": {
+            "am_pathogenicity": 0.998,
+            "am_class": "pathogenic"
+        },
+        "F55S": {
+            "am_pathogenicity": 0.9993,
+            "am_class": "pathogenic"
+        },
+        "F55T": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "F55V": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "F55W": {
+            "am_pathogenicity": 0.9247,
+            "am_class": "pathogenic"
+        },
+        "F55Y": {
+            "am_pathogenicity": 0.8109,
+            "am_class": "pathogenic"
+        },
+        "D56A": {
+            "am_pathogenicity": 0.9912,
+            "am_class": "pathogenic"
+        },
+        "D56C": {
+            "am_pathogenicity": 0.9994,
+            "am_class": "pathogenic"
+        },
+        "D56E": {
+            "am_pathogenicity": 0.9454,
+            "am_class": "pathogenic"
+        },
+        "D56F": {
+            "am_pathogenicity": 0.9985,
+            "am_class": "pathogenic"
+        },
+        "D56G": {
+            "am_pathogenicity": 0.9947,
+            "am_class": "pathogenic"
+        },
+        "D56H": {
+            "am_pathogenicity": 0.997,
+            "am_class": "pathogenic"
+        },
+        "D56I": {
+            "am_pathogenicity": 0.9996,
+            "am_class": "pathogenic"
+        },
+        "D56K": {
+            "am_pathogenicity": 0.9985,
+            "am_class": "pathogenic"
+        },
+        "D56L": {
+            "am_pathogenicity": 0.9987,
+            "am_class": "pathogenic"
+        },
+        "D56M": {
+            "am_pathogenicity": 0.9998,
+            "am_class": "pathogenic"
+        },
+        "D56N": {
+            "am_pathogenicity": 0.9911,
+            "am_class": "pathogenic"
+        },
+        "D56P": {
+            "am_pathogenicity": 0.9987,
+            "am_class": "pathogenic"
+        },
+        "D56Q": {
+            "am_pathogenicity": 0.9947,
+            "am_class": "pathogenic"
+        },
+        "D56R": {
+            "am_pathogenicity": 0.996,
+            "am_class": "pathogenic"
+        },
+        "D56S": {
+            "am_pathogenicity": 0.9913,
+            "am_class": "pathogenic"
+        },
+        "D56T": {
+            "am_pathogenicity": 0.9975,
+            "am_class": "pathogenic"
+        },
+        "D56V": {
+            "am_pathogenicity": 0.9985,
+            "am_class": "pathogenic"
+        },
+        "D56W": {
+            "am_pathogenicity": 0.9993,
+            "am_class": "pathogenic"
+        },
+        "D56Y": {
+            "am_pathogenicity": 0.9944,
+            "am_class": "pathogenic"
+        },
+        "A57C": {
+            "am_pathogenicity": 0.9862,
+            "am_class": "pathogenic"
+        },
+        "A57D": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "A57E": {
+            "am_pathogenicity": 0.999,
+            "am_class": "pathogenic"
+        },
+        "A57F": {
+            "am_pathogenicity": 0.9939,
+            "am_class": "pathogenic"
+        },
+        "A57G": {
+            "am_pathogenicity": 0.9408,
+            "am_class": "pathogenic"
+        },
+        "A57H": {
+            "am_pathogenicity": 0.9993,
+            "am_class": "pathogenic"
+        },
+        "A57I": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "A57K": {
+            "am_pathogenicity": 0.9997,
+            "am_class": "pathogenic"
+        },
+        "A57L": {
+            "am_pathogenicity": 0.995,
+            "am_class": "pathogenic"
+        },
+        "A57M": {
+            "am_pathogenicity": 0.9995,
+            "am_class": "pathogenic"
+        },
+        "A57N": {
+            "am_pathogenicity": 0.9989,
+            "am_class": "pathogenic"
+        },
+        "A57P": {
+            "am_pathogenicity": 0.9974,
+            "am_class": "pathogenic"
+        },
+        "A57Q": {
+            "am_pathogenicity": 0.9972,
+            "am_class": "pathogenic"
+        },
+        "A57R": {
+            "am_pathogenicity": 0.9926,
+            "am_class": "pathogenic"
+        },
+        "A57S": {
+            "am_pathogenicity": 0.9298,
+            "am_class": "pathogenic"
+        },
+        "A57T": {
+            "am_pathogenicity": 0.9984,
+            "am_class": "pathogenic"
+        },
+        "A57V": {
+            "am_pathogenicity": 0.9992,
+            "am_class": "pathogenic"
+        },
+        "A57W": {
+            "am_pathogenicity": 0.9991,
+            "am_class": "pathogenic"
+        },
+        "A57Y": {
+            "am_pathogenicity": 0.997,
+            "am_class": "pathogenic"
+        },
+        "R58A": {
+            "am_pathogenicity": 0.9906,
+            "am_class": "pathogenic"
+        },
+        "R58C": {
+            "am_pathogenicity": 0.9975,
+            "am_class": "pathogenic"
+        },
+        "R58D": {
+            "am_pathogenicity": 0.9935,
+            "am_class": "pathogenic"
+        },
+        "R58E": {
+            "am_pathogenicity": 0.9667,
+            "am_class": "pathogenic"
+        },
+        "R58F": {
+            "am_pathogenicity": 0.9985,
+            "am_class": "pathogenic"
+        },
+        "R58G": {
+            "am_pathogenicity": 0.9867,
+            "am_class": "pathogenic"
+        },
+        "R58H": {
+            "am_pathogenicity": 0.9934,
+            "am_class": "pathogenic"
+        },
+        "R58I": {
+            "am_pathogenicity": 0.997,
+            "am_class": "pathogenic"
+        },
+        "R58K": {
+            "am_pathogenicity": 0.9492,
+            "am_class": "pathogenic"
+        },
+        "R58L": {
+            "am_pathogenicity": 0.9836,
+            "am_class": "pathogenic"
+        },
+        "R58M": {
+            "am_pathogenicity": 0.999,
+            "am_class": "pathogenic"
+        },
+        "R58N": {
+            "am_pathogenicity": 0.9963,
+            "am_class": "pathogenic"
+        },
+        "R58P": {
+            "am_pathogenicity": 0.9902,
+            "am_class": "pathogenic"
+        },
+        "R58Q": {
+            "am_pathogenicity": 0.9784,
+            "am_class": "pathogenic"
+        },
+        "R58S": {
+            "am_pathogenicity": 0.9973,
+            "am_class": "pathogenic"
+        },
+        "R58T": {
+            "am_pathogenicity": 0.9955,
+            "am_class": "pathogenic"
+        },
+        "R58V": {
+            "am_pathogenicity": 0.9929,
+            "am_class": "pathogenic"
+        },
+        "R58W": {
+            "am_pathogenicity": 0.9979,
+            "am_class": "pathogenic"
+        },
+        "R58Y": {
+            "am_pathogenicity": 0.9971,
+            "am_class": "pathogenic"
+        }
+    },
+    "statistics": {
+        "total_variants": 1102,
+        "am_class_counts": {
+            "ambiguous": 64,
+            "benign": 167,
+            "pathogenic": 871
+        },
+        "am_pathogenicity_stats": {
+            "average": 0.8056,
+            "min": 0.0512,
+            "max": 1.0,
+            "median": 0.9856,
+            "quantile_25": 0.7048,
+            "quantile_75": 0.9983
+        },
+        "protein_length": 58,
+        "creation_date": "2024-08-21T15:06:04.592790",
+        "source_file": "AlphaMissense_aa_substitutions.tsv.gz"
+    }
+}
